@@ -1,0 +1,5 @@
+{
+  "BACK_TO_APP": "Back to application",
+  "CONFIRMATION_LINK_EXPIRED": "Email confirmation link is expired. Please, request a new one",
+  "INVALID_RECOVER_TOKEN": "Unable to reset password with this link. Please, request a new one"
+}

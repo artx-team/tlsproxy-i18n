@@ -1,0 +1,6 @@
+{
+  "Both cert and key are required": "Обязательные файлы cert и key",
+  "Bad X509 certificate": "Сертификат не в формате X509",
+  "Bad key": "Неверный формат закрытого ключа",
+  "Certificate is not consistent with the given private key": "Закрытый ключ не подходит к сертификату"
+}

@@ -1,0 +1,6 @@
+{
+  "Both cert and key are required": "Both cert and key are required",
+  "Bad X509 certificate": "Bad X509 certificate",
+  "Bad key": "Bad key",
+  "Certificate is not consistent with the given private key": "Certificate is not consistent with the given private key"
+}

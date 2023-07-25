@@ -1,0 +1,15 @@
+{
+  "name": "tlsproxy-i18n",
+  "version": "0.0.0",
+  "scripts": {
+    "semantic-release": "semantic-release"
+  },
+  "dependencies": { },
+  "devDependencies": {
+    "copyfiles": "^2.4.1",
+    "@semantic-release/changelog": "^6.0.1",
+    "@semantic-release/git": "^10.0.1",
+    "@semantic-release/gitlab": "^9.2.0",
+    "semantic-release": "^19.0.5"
+  }
+}

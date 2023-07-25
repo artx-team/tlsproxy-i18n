@@ -1,0 +1,4 @@
+{
+  "CONFIRM_EMAIL_SUBJECT": "{appName} — email confirmation",
+  "RESTORE_PASSWORD_SUBJECT": "{appName} — password recovery"
+}
