@@ -2,7 +2,8 @@
   "name": "tlsproxy-i18n",
   "version": "0.0.0-semantically-released",
   "scripts": {
-    "semantic-release": "semantic-release"
+    "semantic-release": "semantic-release",
+    "copyfiles": "copyfiles \"backend/**/*\" \"frontend/**/*\" package.json README.md CHANGELOG.md dist"
   },
   "dependencies": { },
   "devDependencies": {
