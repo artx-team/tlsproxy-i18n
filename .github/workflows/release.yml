@@ -26,6 +26,8 @@ jobs:
           cache: 'npm'
       - run: npm i
       - run: mkdir dist
+      - run: npm run copyfiles
+      - run: ls -l dist
       - run: npx semantic-release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
