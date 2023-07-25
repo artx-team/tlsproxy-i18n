@@ -1,3 +1,11 @@
+## [1.0.1](https://github.com/artx-team/tlsproxy-i18n/compare/v1.0.0...v1.0.1) (2023-07-25)
+
+
+### Bug Fixes
+
+* package ([72eded8](https://github.com/artx-team/tlsproxy-i18n/commit/72eded801c15f8e3c59bb54eafb3bb69335f13dd))
+* publish ([4069ced](https://github.com/artx-team/tlsproxy-i18n/commit/4069cedfc96c119d6ce828d6f8e4a7b4134f6395))
+
 # 1.0.0 (2023-07-25)
 
 
