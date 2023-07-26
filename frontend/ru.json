@@ -350,5 +350,7 @@
   "Move": "Переместить",
   "Movement from auto-exclusions": "Перемещение автоисключений",
   "IP or CIDR": "IP или CIDR",
-  "Invalid IP or CIDR": "Неправильный IP или CIDR"
+  "Invalid IP or CIDR": "Неправильный IP или CIDR",
+  "Select everything on all pages": "Выбрать всё на всех страницах",
+  "Selected": "Выбрано"
 }

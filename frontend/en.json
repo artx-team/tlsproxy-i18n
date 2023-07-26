@@ -350,5 +350,7 @@
   "Move": "Move",
   "Movement from auto-exclusions": "Movement from auto-exclusions",
   "IP or CIDR": "IP or CIDR",
-  "Invalid IP or CIDR": "Invalid IP or CIDR"
+  "Invalid IP or CIDR": "Invalid IP or CIDR",
+  "Select everything on all pages": "Select everything on all pages",
+  "Selected": "Selected"
 }
