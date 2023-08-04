@@ -1,5 +1,7 @@
 {
   "Forbidden resource": "Forbidden resource",
   "Unauthorized": "Unauthorized",
-  "Not found": "Not found"
+  "Not found": "Not found",
+  "Not Found": "Not found",
+  "Timeout has occurred": "Timeout has occurred"
 }
