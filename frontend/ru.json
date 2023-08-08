@@ -353,5 +353,7 @@
   "Invalid IP or CIDR": "Неправильный IP или CIDR",
   "Select everything on all pages": "Выбрать всё на всех страницах",
   "Selected": "Выбрано",
-  "Stats": "Статистика"
+  "Stats": "Статистика",
+  "Must be an integer": "Значение должно быть целочисленным",
+  "Process affinity hint": "Process affinity hint"
 }

@@ -353,5 +353,7 @@
   "Invalid IP or CIDR": "Invalid IP or CIDR",
   "Select everything on all pages": "Select everything on all pages",
   "Selected": "Selected",
-  "Stats": "Statistics"
+  "Stats": "Statistics",
+  "Must be an integer": "Must be an integer",
+  "Process affinity hint": "Process affinity hint"
 }
