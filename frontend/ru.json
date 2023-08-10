@@ -355,5 +355,7 @@
   "Selected": "Выбрано",
   "Stats": "Статистика",
   "Must be an integer": "Значение должно быть целочисленным",
-  "Process affinity hint": "Process affinity hint"
+  "Process affinity hint": "Process affinity hint",
+  "Check CA": "Проверка корневого сертификата",
+  "Check CA hint": "Проверка корневого сертификата"
 }
