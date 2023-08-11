@@ -357,5 +357,6 @@
   "Must be an integer": "Must be an integer",
   "Process affinity hint": "Process affinity hint",
   "Check CA": "Check CA",
-  "Check CA hint": "Check CA hint"
+  "Check CA hint": "Check CA hint",
+  "Last activity at": "Last activity at"
 }
