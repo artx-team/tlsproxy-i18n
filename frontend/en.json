@@ -146,7 +146,7 @@
   "Interfaces": "Interfaces",
   "Iface": "Iface",
   "Internal interface": "Internal interface",
-  "Internal interface": "Internal interface",
+  "Internal interface hint": "In classic mode, it should look towards users; in Reverse-Proxy mode, it should look towards the Internet",
   "Internal interface address": "Internal interface address",
   "External interface": "External interface",
   "External interface hint": "External interface in classic mode, looks towards the Internet; in Revers-proxy mode, looks towards users",
@@ -359,4 +359,5 @@
   "Check CA": "Check CA",
   "Check CA hint": "Checking the root certificate according to the TLSProxy algorithm for three conditions",
   "Last activity at": "Last activity at"
+  "Language": "Language"
 }
