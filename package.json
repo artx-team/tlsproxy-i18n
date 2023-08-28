@@ -11,7 +11,7 @@
     "@semantic-release/github": "^8.0.4",
     "@semantic-release/npm": "^10.0.3",
     "copyfiles": "^2.4.1",
-    "semantic-release": "^21.0.1"
+    "semantic-release": "^21.1.1"
   },
   "repository": {
     "type": "git",
