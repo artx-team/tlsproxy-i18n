@@ -1,3 +1,10 @@
+# [1.8.0](https://github.com/artx-team/tlsproxy-i18n/compare/v1.7.0...v1.8.0) (2023-09-01)
+
+
+### Features
+
+* **frontend:** translations for iface stats ([ea32a79](https://github.com/artx-team/tlsproxy-i18n/commit/ea32a795f33ff4e6a07b385d067d1d60bac6629b))
+
 # [1.7.0](https://github.com/artx-team/tlsproxy-i18n/compare/v1.6.0...v1.7.0) (2023-08-28)
 
 
