@@ -359,5 +359,11 @@
   "Check CA": "Проверка корневого сертификата",
   "Check CA hint": "Проверка корневого сертификата",
   "Last activity at": "Последняя активность",
-  "Language": "Язык"
+  "Language": "Язык",
+  "Iface stats settings": "Настройки статистики по сетевым интерфейсам",
+  "Stats settings updated": "Настройки статистики сохранены",
+  "Iface stats enabled hint": "Сбор статистики интерфейсов",
+  "Store period": "Длительность хранения",
+  "Poll interval": "Интервал опроса",
+  "Purge interval": "Интервал очистки"
 }

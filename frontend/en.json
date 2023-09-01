@@ -359,5 +359,11 @@
   "Check CA": "Check CA",
   "Check CA hint": "Check CA hint",
   "Last activity at": "Last activity at",
-  "Language": "Language"
+  "Language": "Language",
+  "Iface stats settings": "Iface stats settings",
+  "Stats settings updated": "Stats settings updated",
+  "Iface stats enabled hint": "Iface stats enabled hint",
+  "Store period": "Store period",
+  "Poll interval": "Poll interval",
+  "Purge interval": "Purge interval"
 }
