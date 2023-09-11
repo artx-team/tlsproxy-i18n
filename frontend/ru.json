@@ -244,7 +244,7 @@
   "Transparent mode": "Transparent (прозрачный)",
   "Transparent mode hint": "L2 (Bridge-mode). TLSProxy не имеет IP-адреса и работает как прозрачный коммутатор на уровне L2 сетевой модели OSI",
   "Explicit mode": "Explicit (явный)",
-  "Explicit mode hint": "L3 (Router-mode). TLSProxy имеет IP-адреса для интерфейсов Internal (внутренний) и External (внешний) и работает в качестве явного сетевого шлюза по умолчанию для доступа к Интернет",
+  "Explicit mode hint": "L3 (Router-mode). TLSProxy имеет IP-адреса для интерфейсов Internal и External. Работает в качестве явного сетевого шлюза по умолчанию для доступа к Интернет",
   "Classic mode": "Классический",
   "Classic mode hint": "Дешифрует SSL/TLS-трафик пользователей организации при их доступе к ресурсам Интернет",
   "Reverse proxy mode": "Реверс-прокси",
