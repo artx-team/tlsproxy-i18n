@@ -365,5 +365,9 @@
   "Iface stats enabled hint": "Сбор статистики интерфейсов",
   "Store period": "Длительность хранения",
   "Poll interval": "Интервал опроса",
-  "Purge interval": "Интервал очистки"
+  "Reset zoom": "Сбросить масштаб",
+  "Start date": "Начало",
+  "End date": "Окончание",
+  "Min date": "Мин дата",
+  "Max date": "Макс дата"
 }

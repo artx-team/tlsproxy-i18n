@@ -365,5 +365,9 @@
   "Iface stats enabled hint": "Iface stats enabled hint",
   "Store period": "Store period",
   "Poll interval": "Poll interval",
-  "Purge interval": "Purge interval"
+  "Reset zoom": "Reset zoom",
+  "Start date": "Start date",
+  "End date": "End date",
+  "Min date": "Min date",
+  "Max date": "Max date"
 }
