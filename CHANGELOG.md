@@ -1,3 +1,15 @@
+# [1.9.0](https://github.com/artx-team/tlsproxy-i18n/compare/v1.8.0...v1.9.0) (2023-09-11)
+
+
+### Bug Fixes
+
+* **frontend:** recommended certdb size ([2fe7edc](https://github.com/artx-team/tlsproxy-i18n/commit/2fe7edc933079a7a987e4bf07cb7e7e272334ce9))
+
+
+### Features
+
+* **frontend:** translations for stats ([96b6ac7](https://github.com/artx-team/tlsproxy-i18n/commit/96b6ac73094a2e5e62179446f92130ceef43fe8e))
+
 # [1.8.0](https://github.com/artx-team/tlsproxy-i18n/compare/v1.7.0...v1.8.0) (2023-09-01)
 
 
