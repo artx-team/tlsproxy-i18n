@@ -307,7 +307,7 @@
   "Service CPU affinity": "Привязка сервисных тредов к ядрам CPU",
   "Listen port": "Слушать порт",
   "Firewall": "Сетевые правила",
-  "Firewall settings updated": "Сетевые правила сохранены",
+  "Firewall settings updated": "Сетевые правила обновлены",
   "Install": "Установить",
   "Span device": "Устройство сброса оригинального трафика",
   "-Empty-": "-Отсутствует-",
