@@ -244,7 +244,7 @@
   "Transparent mode": "Transparent mode",
   "Transparent mode hint": "L2 (Bridge-mode). TLSProxy has no IP address and works as a transparent switch at the L2 layer of the OSI network model",
   "Explicit mode": "Explicit mode",
-  "Explicit mode hint": "L3 (Router-mode). TLSProxy has IP addresses for the Internal (internal) and External (external) interfaces and works as an explicit default network gateway for Internet access",
+  "Explicit mode hint": "L3 (Router-mode). TLSProxy has IP addresses for the Internal and External interfaces and works as an explicit default network gateway for Internet access",
   "Classic mode": "Classic mode",
   "Classic mode hint": "Decrypts SSL/TLS traffic of the organization's users when they access Internet resources",
   "Reverse proxy mode": "Reverse proxy mode",
@@ -355,9 +355,9 @@
   "Selected": "Selected",
   "Stats": "Statistics",
   "Must be an integer": "Must be an integer",
-  "Process affinity hint": "Binding TLSProxy web processes to specific system processor cores to improve performance and load balancing",
+  "Process affinity hint": "Binding TLSproxy web processes to specific processor cores",
   "Check CA": "Check CA",
-  "Check CA hint": "Checking the root certificate according to the TLSProxy algorithm for three conditions",
+  "Check CA hint": "Enable checking server certificate by CA store",
   "Last activity at": "Last activity at",
   "Language": "Language"
 }
