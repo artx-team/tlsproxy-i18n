@@ -358,6 +358,6 @@
   "Process affinity hint": "Binding TLSProxy web processes to specific system processor cores to improve performance and load balancing",
   "Check CA": "Check CA",
   "Check CA hint": "Checking the root certificate according to the TLSProxy algorithm for three conditions",
-  "Last activity at": "Last activity at"
+  "Last activity at": "Last activity at",
   "Language": "Language"
 }
