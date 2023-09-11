@@ -302,7 +302,7 @@
   "Licence valid to": "Действительна по",
   "Cert DB Size": "Объем кеша сертификатов",
   "kB": "кб",
-  "Recommended size is 16384 kB": "Рекомендованное значение — 16384 кб",
+  "Recommended size is 16384 MB": "Рекомендованное значение — 16384 МБ",
   "Check untrusted root cert": "Проверять недоверенный корневой сертификат",
   "Service CPU affinity": "Привязка сервисных тредов к ядрам CPU",
   "Listen port": "Слушать порт",

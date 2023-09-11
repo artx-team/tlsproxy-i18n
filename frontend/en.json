@@ -302,7 +302,7 @@
   "Licence valid to": "Licence valid to",
   "Cert DB Size": "Cert DB Size",
   "kB": "kB",
-  "Recommended size is 16384 kB": "Recommended size is 16384 kB",
+  "Recommended size is 16384 MB": "Recommended size is 16384 MB",
   "Check untrusted root cert": "Check untrusted root cert",
   "Service CPU affinity": "Service CPU affinity",
   "Listen port": "Listen port",
