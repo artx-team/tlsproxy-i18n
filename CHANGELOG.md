@@ -1,3 +1,10 @@
+## [1.9.1](https://github.com/artx-team/tlsproxy-i18n/compare/v1.9.0...v1.9.1) (2023-09-11)
+
+
+### Bug Fixes
+
+* correct app name ([#10](https://github.com/artx-team/tlsproxy-i18n/issues/10)) ([6394da2](https://github.com/artx-team/tlsproxy-i18n/commit/6394da2ea2cb79ec7929776d1497c408b830b562))
+
 # [1.9.0](https://github.com/artx-team/tlsproxy-i18n/compare/v1.8.0...v1.9.0) (2023-09-11)
 
 
