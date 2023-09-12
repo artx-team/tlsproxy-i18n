@@ -369,5 +369,11 @@
   "Start date": "Начало",
   "End date": "Окончание",
   "Min date": "Мин дата",
-  "Max date": "Макс дата"
+  "Max date": "Макс дата",
+  "Interval": "Интервал",
+  "Apply": "Применить",
+  "Reset": "Сбросить",
+  "Purge interval": "Интервал очистки",
+  "Proxy task stats settings": "Настройки статистики проксирования",
+  "Proxy task stats enabled hint": "Сбор статистики проксирования"
 }

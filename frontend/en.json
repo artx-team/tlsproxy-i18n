@@ -369,5 +369,11 @@
   "Start date": "Start date",
   "End date": "End date",
   "Min date": "Min date",
-  "Max date": "Max date"
+  "Max date": "Max date",
+  "Interval": "Interval",
+  "Apply": "Apply",
+  "Reset": "Reset",
+  "Purge interval": "Purge interval",
+  "Proxy task stats settings": "Proxy task stats settings",
+  "Proxy task stats enabled hint": "Proxy task stats enabled hint"
 }
