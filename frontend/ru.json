@@ -151,7 +151,7 @@
   "External interface": "Внешний интерфейс",
   "External interface hint": "В классическом режиме должен смотреть в сторону сети Интернет (uplink); в режиме Reverse-Proxy — в сторону пользователей",
   "Internal and external interface must be in different subnets": "Внутренний и внешний интерфейсы должны находиться в разных подсетях",
-  "IP Range": "Диапазон IP адресов",
+  "IP Range": "Диапазон IP-адресов",
   "Default gateway": "Шлюз по умолчанию",
   "Gateway must be in the same subnet with external interface": "Шлюз должен находиться в одной подсети с внешним адресом интерфейса",
   "Span interfaces": "Сетевые интерфейсы сброса проксируемого трафика",
