@@ -1,3 +1,10 @@
+## [1.10.1](https://github.com/artx-team/tlsproxy-i18n/compare/v1.10.0...v1.10.1) (2023-09-12)
+
+
+### Bug Fixes
+
+* **frontend:** spelling ([871f2b7](https://github.com/artx-team/tlsproxy-i18n/commit/871f2b7c41cc1199e72b5d81b16afd1d387dd71f))
+
 # [1.10.0](https://github.com/artx-team/tlsproxy-i18n/compare/v1.9.1...v1.10.0) (2023-09-12)
 
 
