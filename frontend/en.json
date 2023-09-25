@@ -379,5 +379,7 @@
   "Proxy task stats enabled hint": "Proxy task stats enabled hint",
   "Connections per proxy task": "Connections per TLSproxy process",
   "Connection speed per VLAN": "Connection speed per VLAN",
-  "Connection speed per iface": "Connection speed per iface"
+  "Connection speed per iface": "Connection speed per iface",
+  "VLAN stats settings": "VLAN stats settings",
+  "VLAN stats enabled hint": "VLAN stats enabled hint"
 }
