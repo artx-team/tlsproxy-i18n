@@ -328,6 +328,7 @@
   "End": "End",
   "Trusted certificates": "Trusted certificates",
   "There are draft settings": "There are draft settings",
+  "No draft settings": "No draft settings",
   "Added interval": "Added interval",
   "Added": "Added",
   "Last triggered": "Last triggered",
@@ -375,5 +376,8 @@
   "Reset": "Reset",
   "Purge interval": "Purge interval",
   "Proxy task stats settings": "Proxy task stats settings",
-  "Proxy task stats enabled hint": "Proxy task stats enabled hint"
+  "Proxy task stats enabled hint": "Proxy task stats enabled hint",
+  "Connections per proxy task": "Connections per TLSproxy process",
+  "Connection speed per VLAN": "Connection speed per VLAN",
+  "Connection speed per iface": "Connection speed per iface"
 }

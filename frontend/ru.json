@@ -328,6 +328,7 @@
   "End": "Конец",
   "Trusted certificates": "Доверенные сертификаты",
   "There are draft settings": "Есть несохраненные настройки",
+  "No draft settings": "Нет несохраненных настроек",
   "Added interval": "Интервал добавления",
   "Added": "Добавлен",
   "Last triggered": "Срабатывание",
@@ -375,5 +376,8 @@
   "Reset": "Сбросить",
   "Purge interval": "Интервал очистки",
   "Proxy task stats settings": "Настройки статистики проксирования",
-  "Proxy task stats enabled hint": "Сбор статистики проксирования"
+  "Proxy task stats enabled hint": "Сбор статистики проксирования",
+  "Connections per proxy task": "Соединения по процессам TLSproxy",
+  "Connection speed per VLAN": "Скорость соединения по VLAN",
+  "Connection speed per iface": "Скорость соединения по сетевым интерфейсам"
 }
