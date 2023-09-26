@@ -258,7 +258,8 @@
   "General settings": "General settings",
   "Autoexclusion settings updated": "Autoexclusion settings updated",
   "Revert settings": "Revert settings",
-  "Proxy task restart timeout": "Proxy task restart timeout",
+  "Proxy task restart timeout": "TLSproxy process restart timeout",
+  "Proxy task stop timeout": "TLSproxy process stop timeout",
   "Timeout dialog intro": "ArtX TLSproxy is processing {count} {count, plural, one{session} other{sessions}}.\nThese sessions will be cut off on ArtX TLSproxy stop.\nAll new sessions will be launched in bypass mode",
   "Force restart timeout": "Force restart timeout",
   "Apply settings": "Apply settings",
@@ -381,5 +382,6 @@
   "Connection speed per VLAN": "Connection speed per VLAN",
   "Connection speed per iface": "Connection speed per iface",
   "VLAN stats settings": "VLAN stats settings",
-  "VLAN stats enabled hint": "VLAN stats enabled hint"
+  "VLAN stats enabled hint": "VLAN stats enabled hint",
+  "MAC must be non link-local": "MAC must be non link-local"
 }

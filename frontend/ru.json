@@ -259,6 +259,7 @@
   "Autoexclusion settings updated": "Настройки автоисключений сохранены",
   "Revert settings": "Сбросить изменение настроек",
   "Proxy task restart timeout": "Перезагрузка",
+  "Proxy task stop timeout": "Остановка",
   "Timeout dialog intro": "ArtX TLSproxy сейчас обрабатывает {count} {count, plural, one{сессию} few{сессии} other{сессий}}.\nПри остановке ArtX TLSproxy эти сессии будут разорваны.\nВсе новые сессии будут пропущены без проксирования (байпас)",
   "Force restart timeout": "Таймаут принудительного разрыва сессии",
   "Apply settings": "Применить настройки",
@@ -381,5 +382,6 @@
   "Connection speed per VLAN": "Скорость соединения по VLAN",
   "Connection speed per iface": "Скорость соединения по сетевым интерфейсам",
   "VLAN stats settings": "Настройки статистики по VLAN",
-  "VLAN stats enabled hint": "Сбор статистики по VLAN"
+  "VLAN stats enabled hint": "Сбор статистики по VLAN",
+  "MAC must be non link-local": "MAC-адрес должен быть не link-local"
 }
