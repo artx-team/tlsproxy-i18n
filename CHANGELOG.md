@@ -1,3 +1,10 @@
+# [1.14.0](https://github.com/artx-team/tlsproxy-i18n/compare/v1.13.0...v1.14.0) (2023-10-05)
+
+
+### Features
+
+* **frontend:** translation for affinity validation ([c13c1ec](https://github.com/artx-team/tlsproxy-i18n/commit/c13c1ecf084748e27a9637e5b35f5c2da28aae1e))
+
 # [1.13.0](https://github.com/artx-team/tlsproxy-i18n/compare/v1.12.0...v1.13.0) (2023-09-26)
 
 
