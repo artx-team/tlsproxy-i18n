@@ -386,5 +386,6 @@
   "MAC must be non link-local": "MAC-адрес должен быть не link-local",
   "Maximal CPU core is": "Максимальное ядро процессора — {value}",
   "Only for L2 mode": "Только для режима Transparent (прозрачный)",
-  "Proxy task whitelist hint": "Использовать белый/черный список в процессах TLSproxy"
+  "Proxy task whitelist hint": "Использовать белый/черный список в процессах TLSproxy",
+  "Use whitelist in proxy tasks": "Использовать белый/черный список"
 }
