@@ -1,3 +1,10 @@
+# [1.16.0](https://github.com/artx-team/tlsproxy-i18n/compare/v1.15.0...v1.16.0) (2023-10-06)
+
+
+### Features
+
+* **frontend:** translation for Proxy task whitelist ([f26397f](https://github.com/artx-team/tlsproxy-i18n/commit/f26397f10d02df66d15f9f8742a604d1e1d9d538))
+
 # [1.15.0](https://github.com/artx-team/tlsproxy-i18n/compare/v1.14.0...v1.15.0) (2023-10-06)
 
 
