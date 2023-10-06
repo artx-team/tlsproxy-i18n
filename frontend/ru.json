@@ -384,5 +384,6 @@
   "VLAN stats settings": "Настройки статистики по VLAN",
   "VLAN stats enabled hint": "Сбор статистики по VLAN",
   "MAC must be non link-local": "MAC-адрес должен быть не link-local",
-  "Maximal CPU core is": "Максимальное ядро процессора — {value}"
+  "Maximal CPU core is": "Максимальное ядро процессора — {value}",
+  "Only for L2 mode": "Только для режима Transparent (прозрачный)"
 }
