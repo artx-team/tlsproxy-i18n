@@ -1,3 +1,10 @@
+# [1.15.0](https://github.com/artx-team/tlsproxy-i18n/compare/v1.14.0...v1.15.0) (2023-10-06)
+
+
+### Features
+
+* **frontend:** translation for L2 mode hint ([0280dcc](https://github.com/artx-team/tlsproxy-i18n/commit/0280dcc3940b3970caabcae507f3075272226fab))
+
 # [1.14.0](https://github.com/artx-team/tlsproxy-i18n/compare/v1.13.0...v1.14.0) (2023-10-05)
 
 
