@@ -387,5 +387,6 @@
   "Maximal CPU core is": "Maximal CPU core is {value}",
   "Only for L3 mode": "Only for Explicit mode",
   "Proxy task whitelist hint": "Proxy task whitelist hint",
-  "Use whitelist in proxy tasks": "Use whitelist"
+  "Use whitelist in proxy tasks": "Use whitelist",
+  "Remember me": "Remember me"
 }

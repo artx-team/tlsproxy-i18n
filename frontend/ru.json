@@ -387,5 +387,6 @@
   "Maximal CPU core is": "Максимальное ядро процессора — {value}",
   "Only for L3 mode": "Только для режима Explicit (явный)",
   "Proxy task whitelist hint": "Использовать белый/черный список в процессах TLSproxy",
-  "Use whitelist in proxy tasks": "Использовать белый/черный список"
+  "Use whitelist in proxy tasks": "Использовать белый/черный список",
+  "Remember me": "Запомнить меня"
 }
