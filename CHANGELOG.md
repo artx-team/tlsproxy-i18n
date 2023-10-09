@@ -1,3 +1,10 @@
+## [1.17.1](https://github.com/artx-team/tlsproxy-i18n/compare/v1.17.0...v1.17.1) (2023-10-09)
+
+
+### Bug Fixes
+
+* **frontend:** fix hint mode ([13cc9e3](https://github.com/artx-team/tlsproxy-i18n/commit/13cc9e32a2e8dda2b8a2269eb8fcdad7ee29236e))
+
 # [1.17.0](https://github.com/artx-team/tlsproxy-i18n/compare/v1.16.0...v1.17.0) (2023-10-06)
 
 
