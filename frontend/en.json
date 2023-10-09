@@ -385,7 +385,7 @@
   "VLAN stats enabled hint": "VLAN stats enabled hint",
   "MAC must be non link-local": "MAC must be non link-local",
   "Maximal CPU core is": "Maximal CPU core is {value}",
-  "Only for L2 mode": "Only for Transparent mode",
+  "Only for L3 mode": "Only for Explicit mode",
   "Proxy task whitelist hint": "Proxy task whitelist hint",
   "Use whitelist in proxy tasks": "Use whitelist"
 }
