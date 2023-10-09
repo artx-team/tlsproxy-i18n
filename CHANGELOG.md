@@ -1,3 +1,10 @@
+# [1.18.0](https://github.com/artx-team/tlsproxy-i18n/compare/v1.17.1...v1.18.0) (2023-10-09)
+
+
+### Features
+
+* **frontend:** remember me ([239374b](https://github.com/artx-team/tlsproxy-i18n/commit/239374bc07fafde1296dc98a89f3cf3ca28f4d30))
+
 ## [1.17.1](https://github.com/artx-team/tlsproxy-i18n/compare/v1.17.0...v1.17.1) (2023-10-09)
 
 
