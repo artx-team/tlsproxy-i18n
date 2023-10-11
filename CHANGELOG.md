@@ -1,3 +1,10 @@
+# [1.19.0](https://github.com/artx-team/tlsproxy-i18n/compare/v1.18.0...v1.19.0) (2023-10-11)
+
+
+### Features
+
+* **frontend:** Software info ([2e9b053](https://github.com/artx-team/tlsproxy-i18n/commit/2e9b053969fd294052734408c25b55e65905a755))
+
 # [1.18.0](https://github.com/artx-team/tlsproxy-i18n/compare/v1.17.1...v1.18.0) (2023-10-09)
 
 
