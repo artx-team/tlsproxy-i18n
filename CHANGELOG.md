@@ -1,3 +1,10 @@
+# [1.20.0](https://github.com/artx-team/tlsproxy-i18n/compare/v1.19.0...v1.20.0) (2023-10-20)
+
+
+### Features
+
+* **frontend:** MAC exclusion list ([8804821](https://github.com/artx-team/tlsproxy-i18n/commit/8804821053ea7933f07caa2d765b481d7f739762))
+
 # [1.19.0](https://github.com/artx-team/tlsproxy-i18n/compare/v1.18.0...v1.19.0) (2023-10-11)
 
 
