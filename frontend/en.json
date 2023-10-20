@@ -389,5 +389,10 @@
   "Proxy task whitelist hint": "Proxy task whitelist hint",
   "Use whitelist in proxy tasks": "Use whitelist",
   "Remember me": "Remember me",
-  "Software info": "Software info"
+  "Software info": "Software info",
+  "New iface": "New iface",
+  "MAC exclusion list": "MAC exclusion list",
+  "Add MAC exclusion": "Add MAC exclusion",
+  "Remove MAC exclusion": "Remove MAC exclusion",
+  "Confirm MAC exclusion deletion": "Confirm MAC exclusion deletion"
 }

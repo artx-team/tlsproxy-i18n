@@ -389,5 +389,10 @@
   "Proxy task whitelist hint": "Использовать белый/черный список в процессах TLSproxy",
   "Use whitelist in proxy tasks": "Использовать белый/черный список",
   "Remember me": "Запомнить меня",
-  "Software info": "О программе"
+  "Software info": "О программе",
+  "New iface": "Новый интерфейс",
+  "MAC exclusion list": "Список исключений MAC-адресов",
+  "Add MAC exclusion": "Добавить исключение MAC-адреса",
+  "Remove MAC exclusion": "Удалить исключение MAC-адреса",
+  "Confirm MAC exclusion deletion": "Подтвердите удаление MAC-адреса"
 }
