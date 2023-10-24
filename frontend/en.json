@@ -395,6 +395,7 @@
   "Add MAC exclusion": "Add MAC exclusion",
   "Remove MAC exclusion": "Remove MAC exclusion",
   "Confirm MAC exclusion deletion": "Confirm MAC exclusion deletion",
-  "Always reload on service start": "Always reload on service start",
-  "Unload on service stop": "Unload on service stop"
+  "Always reload on service start": "Always reload FW module on service start",
+  "Unload on service stop": "Unload FW module on service stop",
+  "Max clients": "Max clients"
 }
