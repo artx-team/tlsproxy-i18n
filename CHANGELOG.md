@@ -1,3 +1,10 @@
+# [1.22.0](https://github.com/artx-team/tlsproxy-i18n/compare/v1.21.0...v1.22.0) (2023-10-24)
+
+
+### Features
+
+* **frontend:** Max clients ([58be212](https://github.com/artx-team/tlsproxy-i18n/commit/58be2127ca49e9f1adc052b4253531cb1bf47ad0))
+
 # [1.21.0](https://github.com/artx-team/tlsproxy-i18n/compare/v1.20.0...v1.21.0) (2023-10-24)
 
 
