@@ -394,5 +394,7 @@
   "MAC exclusion list": "Список исключений MAC-адресов",
   "Add MAC exclusion": "Добавить исключение MAC-адреса",
   "Remove MAC exclusion": "Удалить исключение MAC-адреса",
-  "Confirm MAC exclusion deletion": "Подтвердите удаление MAC-адреса"
+  "Confirm MAC exclusion deletion": "Подтвердите удаление MAC-адреса",
+  "Always reload on service start": "Перезагружать на старте сервиса",
+  "Unload on service stop": "Выгружать при выходе из сервиса"
 }
