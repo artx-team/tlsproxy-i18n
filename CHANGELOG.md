@@ -1,3 +1,10 @@
+# [1.21.0](https://github.com/artx-team/tlsproxy-i18n/compare/v1.20.0...v1.21.0) (2023-10-24)
+
+
+### Features
+
+* **frontend:** fw reload, unload ([c748a85](https://github.com/artx-team/tlsproxy-i18n/commit/c748a851117a017f50add266485175ccb574cf9e))
+
 # [1.20.0](https://github.com/artx-team/tlsproxy-i18n/compare/v1.19.0...v1.20.0) (2023-10-20)
 
 
