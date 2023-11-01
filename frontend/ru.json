@@ -397,5 +397,7 @@
   "Confirm MAC exclusion deletion": "Подтвердите удаление MAC-адреса",
   "Always reload on service start": "Перезагружать модуль FW на старте сервиса",
   "Unload on service stop": "Выгружать модуль FW при выходе из сервиса",
-  "Max clients": "Максимальное количество клиентов"
+  "Max clients": "Максимальное количество клиентов",
+  "Installation": "Installation",
+  "Advanced mode": "Расширенный режим"
 }

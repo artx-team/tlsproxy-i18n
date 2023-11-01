@@ -397,5 +397,7 @@
   "Confirm MAC exclusion deletion": "Confirm MAC exclusion deletion",
   "Always reload on service start": "Always reload FW module on service start",
   "Unload on service stop": "Unload FW module on service stop",
-  "Max clients": "Max clients"
+  "Max clients": "Max clients",
+  "Installation": "Installation",
+  "Advanced mode": "Advanced mode"
 }
