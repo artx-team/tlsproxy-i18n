@@ -398,6 +398,6 @@
   "Always reload on service start": "Перезагружать модуль FW на старте сервиса",
   "Unload on service stop": "Выгружать модуль FW при выходе из сервиса",
   "Max clients": "Максимальное количество клиентов",
-  "Installation": "Installation",
+  "Installation": "Установка",
   "Advanced mode": "Расширенный режим"
 }
