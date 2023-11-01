@@ -1,3 +1,10 @@
+# [1.23.0](https://github.com/artx-team/tlsproxy-i18n/compare/v1.22.0...v1.23.0) (2023-11-01)
+
+
+### Features
+
+* **frontend:** install modes ([6dde979](https://github.com/artx-team/tlsproxy-i18n/commit/6dde979a8521a60fe6bccf009da5f00e59db74a0))
+
 # [1.22.0](https://github.com/artx-team/tlsproxy-i18n/compare/v1.21.0...v1.22.0) (2023-10-24)
 
 
