@@ -399,5 +399,16 @@
   "Unload on service stop": "Выгружать модуль FW при выходе из сервиса",
   "Max clients": "Максимальное количество клиентов",
   "Installation": "Установка",
-  "Advanced mode": "Расширенный режим"
+  "Advanced mode": "Расширенный режим",
+  "File name": "Имя файла",
+  "Export no-proxy": "Экспорт исключений",
+  "Import no-proxy": "Импорт исключений",
+  "Export non-excludable": "Экспорт ресурсов",
+  "Import non-excludable": "Импорт ресурсов",
+  "Export groups": "Экспорт групп",
+  "Import groups": "Импорт групп",
+  "Export whitelist": "Экспорт списка",
+  "Import whitelist": "Импорт списка",
+  "List": "Список",
+  "Whitelist saved": "Белый/черный список сохранен"
 }

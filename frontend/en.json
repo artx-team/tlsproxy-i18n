@@ -399,5 +399,16 @@
   "Unload on service stop": "Unload FW module on service stop",
   "Max clients": "Max clients",
   "Installation": "Installation",
-  "Advanced mode": "Advanced mode"
+  "Advanced mode": "Advanced mode",
+  "File name": "File name",
+  "Export no-proxy": "Export no-proxy",
+  "Import no-proxy": "Import no-proxy",
+  "Export non-excludable": "Export non-excludable",
+  "Import non-excludable": "Import non-excludable",
+  "Export groups": "Export groups",
+  "Import groups": "Import groups",
+  "Export whitelist": "Export whitelist",
+  "Import whitelist": "Import whitelist",
+  "List": "List",
+  "Whitelist saved": "Whitelist saved"
 }
