@@ -418,5 +418,6 @@
   "Add peer": "Добавить пир",
   "Remove peer": "Удалить пир",
   "Confirm peer deletion": "Подтвердите удаление пира",
-  "Upload sync key": "Загрузить ключ синхронизации"
+  "Upload sync key": "Загрузить ключ синхронизации",
+  "Sync key updated": "Ключ синхронизации сохранен"
 }
