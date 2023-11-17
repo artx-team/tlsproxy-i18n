@@ -419,5 +419,5 @@
   "Remove peer": "Удалить пир",
   "Confirm peer deletion": "Подтвердите удаление пира",
   "Upload sync key": "Загрузить ключ синхронизации",
-  "Sync key updated": "Ключ синхронизации сохранен"
+  "Sync key uploaded": "Ключ синхронизации загружен"
 }
