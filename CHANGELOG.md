@@ -1,3 +1,10 @@
+## [1.26.1](https://github.com/artx-team/tlsproxy-i18n/compare/v1.26.0...v1.26.1) (2023-11-17)
+
+
+### Bug Fixes
+
+* **frontend:** sync key uploaded ([2116744](https://github.com/artx-team/tlsproxy-i18n/commit/21167448be5e3a43ee5a7f1721c279b6ba355eab))
+
 # [1.26.0](https://github.com/artx-team/tlsproxy-i18n/compare/v1.25.0...v1.26.0) (2023-11-17)
 
 
