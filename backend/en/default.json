@@ -3,5 +3,6 @@
   "Unauthorized": "Unauthorized",
   "Not found": "Not found",
   "Not Found": "Not found",
-  "Timeout has occurred": "Timeout has occurred"
+  "Timeout has occurred": "Timeout has occurred",
+  "Cert not found": "Cert not found"
 }

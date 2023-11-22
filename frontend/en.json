@@ -419,5 +419,7 @@
   "Remove peer": "Remove peer",
   "Confirm peer deletion": "Confirm peer deletion",
   "Upload sync key": "Upload sync key",
-  "Sync key uploaded": "Sync key uploaded"
+  "Sync key uploaded": "Sync key uploaded",
+  "Auto apply sync settings": "Auto apply sync settings",
+  "TLSproxy draft certificate": "TLSproxy draft certificate"
 }

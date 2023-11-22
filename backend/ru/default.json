@@ -3,5 +3,6 @@
   "Unauthorized": "Не авторизован",
   "Not found": "Не найдено",
   "Not Found": "Не найдено",
-  "Timeout has occurred": "Превышено время ожидания ответа"
+  "Timeout has occurred": "Превышено время ожидания ответа",
+  "Cert not found": "Сертификат не найден"
 }
