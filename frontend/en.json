@@ -421,5 +421,8 @@
   "Upload sync key": "Upload sync key",
   "Sync key uploaded": "Sync key uploaded",
   "Auto apply sync settings": "Auto apply sync settings",
-  "TLSproxy draft certificate": "TLSproxy draft certificate"
+  "TLSproxy draft certificate": "TLSproxy draft certificate",
+  "Address": "Address",
+  "Version": "Version",
+  "Last alive": "Last alive"
 }

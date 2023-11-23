@@ -421,5 +421,8 @@
   "Upload sync key": "Загрузить ключ синхронизации",
   "Sync key uploaded": "Ключ синхронизации загружен",
   "Auto apply sync settings": "Автоматическое применение настроек синхронизации",
-  "TLSproxy draft certificate": "Черновик корневого сертификата TLSproxy"
+  "TLSproxy draft certificate": "Черновик корневого сертификата TLSproxy",
+  "Address": "Адрес",
+  "Version": "Версия",
+  "Last alive": "Последняя активность"
 }
