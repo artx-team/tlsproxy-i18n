@@ -424,5 +424,6 @@
   "TLSproxy draft certificate": "Черновик корневого сертификата TLSproxy",
   "Address": "Адрес",
   "Version": "Версия",
-  "Last alive": "Последняя активность"
+  "Last alive": "Последняя активность",
+  "Use built-in server": "Использовать встроенную СУБД"
 }

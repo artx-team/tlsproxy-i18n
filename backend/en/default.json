@@ -4,5 +4,6 @@
   "Not found": "Not found",
   "Not Found": "Not found",
   "Timeout has occurred": "Timeout has occurred",
-  "Cert not found": "Cert not found"
+  "Cert not found": "Cert not found",
+  "DB user has no privileges to create tables": "DB user has no privileges to create tables"
 }

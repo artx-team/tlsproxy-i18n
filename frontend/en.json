@@ -424,5 +424,6 @@
   "TLSproxy draft certificate": "TLSproxy draft certificate",
   "Address": "Address",
   "Version": "Version",
-  "Last alive": "Last alive"
+  "Last alive": "Last alive",
+  "Use built-in server": "Use built-in database server"
 }
