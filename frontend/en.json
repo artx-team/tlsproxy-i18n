@@ -425,5 +425,6 @@
   "Address": "Address",
   "Version": "Version",
   "Last alive": "Last alive",
-  "Use built-in server": "Use built-in database server"
+  "Use built-in server": "Use built-in database server",
+  "Diff": "Diff"
 }
