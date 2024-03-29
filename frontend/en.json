@@ -426,5 +426,6 @@
   "Version": "Version",
   "Last alive": "Last alive",
   "Use built-in server": "Use built-in database server",
-  "Diff": "Diff"
+  "Diff": "Diff",
+  "Build date": "Build date"
 }
