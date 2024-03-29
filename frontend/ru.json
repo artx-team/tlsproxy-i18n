@@ -427,5 +427,6 @@
   "Last alive": "Последняя активность",
   "Use built-in server": "Использовать встроенную СУБД",
   "Diff": "Изменения настроек",
-  "Build date": "Дата сборки"
+  "Build date": "Дата сборки",
+  "Demo expiration date": "Демоверсия до"
 }
