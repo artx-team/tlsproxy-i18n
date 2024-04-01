@@ -429,5 +429,10 @@
   "Diff": "Diff",
   "Build date": "Build date",
   "Demo expiration date": "Demo expiration date",
-  "Crash log enabled": "Crash log enabled"
+  "Crash log enabled": "Crash log enabled",
+  "Service VLAN ethertype": "TLSproxy Service Tag Protocol ID",
+  "VLAN ethertype hint": "VLAN ethertype hint",
+  "Inner": "Inner",
+  "Outer": "Outer",
+  "Hexadecimal format. 0 to disable": "Hexadecimal format. 0 to disable"
 }

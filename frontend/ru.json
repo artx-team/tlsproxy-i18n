@@ -429,5 +429,10 @@
   "Diff": "Изменения настроек",
   "Build date": "Дата сборки",
   "Demo expiration date": "Демоверсия до",
-  "Crash log enabled": "Логировать аварийные завершения процессов TLSproxy"
+  "Crash log enabled": "Логировать аварийные завершения процессов TLSproxy",
+  "Service VLAN ethertype": "Идентификатор протокола сервисного тега TLSproxy",
+  "VLAN ethertype hint": "Протокол сервисного тега",
+  "Inner": "Внутренний",
+  "Outer": "Внешний",
+  "Hexadecimal format. 0 to disable": "Шестнадцатеричная система. 0 для выключения"
 }
