@@ -428,5 +428,6 @@
   "Use built-in server": "Use built-in database server",
   "Diff": "Diff",
   "Build date": "Build date",
-  "Demo expiration date": "Demo expiration date"
+  "Demo expiration date": "Demo expiration date",
+  "Crash log enabled": "Crash log enabled"
 }

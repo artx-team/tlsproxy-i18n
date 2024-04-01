@@ -428,5 +428,6 @@
   "Use built-in server": "Использовать встроенную СУБД",
   "Diff": "Изменения настроек",
   "Build date": "Дата сборки",
-  "Demo expiration date": "Демоверсия до"
+  "Demo expiration date": "Демоверсия до",
+  "Crash log enabled": "Логировать аварийные завершения процессов TLSproxy"
 }
