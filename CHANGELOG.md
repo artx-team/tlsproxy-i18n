@@ -1,3 +1,10 @@
+# [1.36.0](https://github.com/artx-team/tlsproxy-i18n/compare/v1.35.0...v1.36.0) (2024-04-01)
+
+
+### Features
+
+* **frontend:** translations for TPID ([24412cd](https://github.com/artx-team/tlsproxy-i18n/commit/24412cdbcbe60123d90b3bb3f55de575135e5af8))
+
 # [1.35.0](https://github.com/artx-team/tlsproxy-i18n/compare/v1.34.0...v1.35.0) (2024-04-01)
 
 
