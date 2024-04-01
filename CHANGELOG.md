@@ -1,3 +1,10 @@
+# [1.35.0](https://github.com/artx-team/tlsproxy-i18n/compare/v1.34.0...v1.35.0) (2024-04-01)
+
+
+### Features
+
+* **frontend:** translations for Crash log ([2305cf4](https://github.com/artx-team/tlsproxy-i18n/commit/2305cf4826de8d7ab5ef3efd46b6ac31168a448e))
+
 # [1.34.0](https://github.com/artx-team/tlsproxy-i18n/compare/v1.33.0...v1.34.0) (2024-03-29)
 
 
