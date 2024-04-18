@@ -434,5 +434,8 @@
   "VLAN ethertype hint": "VLAN ethertype hint",
   "Inner": "Inner",
   "Outer": "Outer",
-  "Hexadecimal format. 0 to disable": "Hexadecimal format. 0 to disable"
+  "Hexadecimal format. 0 to disable": "Hexadecimal format. 0 to disable",
+  "Iface stats": "Iface",
+  "VLAN stats": "VLAN",
+  "TLSproxy processes stats": "TLSproxy processes"
 }
