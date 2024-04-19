@@ -437,5 +437,6 @@
   "Hexadecimal format. 0 to disable": "Шестнадцатеричная система. 0 для выключения",
   "Iface stats": "Сетевые интерфейсы",
   "VLAN stats": "VLAN",
-  "TLSproxy processes stats": "Процессы TLSproxy"
+  "TLSproxy processes stats": "Процессы TLSproxy",
+  "Zoom hint": "Масштабирование:\nКолесо мыши — по оси X;\nShift+колесо — по оси Y;\nCtrl+колесо — по осям X и Y"
 }

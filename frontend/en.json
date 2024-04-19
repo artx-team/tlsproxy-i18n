@@ -437,5 +437,8 @@
   "Hexadecimal format. 0 to disable": "Hexadecimal format. 0 to disable",
   "Iface stats": "Iface",
   "VLAN stats": "VLAN",
-  "TLSproxy processes stats": "TLSproxy processes"
+  "TLSproxy processes stats": "TLSproxy processes",
+  "Ifaces displayed by default": "Ifaces displayed by default",
+  "Ifaces displayed by default hint": "Ifaces displayed by default hint",
+  "Zoom hint": "Zooming:\nMousewheel—X axis;\nShift+mousewheel—Y axis;\nCtrl+mousewheel—both X and Y"
 }
