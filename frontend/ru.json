@@ -438,5 +438,8 @@
   "Iface stats": "Сетевые интерфейсы",
   "VLAN stats": "VLAN",
   "TLSproxy processes stats": "Процессы TLSproxy",
-  "Zoom hint": "Масштабирование:\nКолесо мыши — по оси X;\nShift+колесо — по оси Y;\nCtrl+колесо — по осям X и Y"
+  "Zoom hint": "Масштабирование:\nКолесо мыши — по оси X;\nShift+колесо — по оси Y;\nCtrl+колесо — по осям X и Y",
+  "Ifaces displayed by default": "Интерфейсы, отображаемые по умолчанию",
+  "Ifaces displayed by default hint": "На графике будут отображены только выбранные сетевые интерфейсы",
+  "Regular expression or FQDN": "Доменное имя или регулярное выражение, ограниченное слешами (/domain\\.ru/)"
 }

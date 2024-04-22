@@ -440,5 +440,6 @@
   "TLSproxy processes stats": "TLSproxy processes",
   "Ifaces displayed by default": "Ifaces displayed by default",
   "Ifaces displayed by default hint": "Ifaces displayed by default hint",
-  "Zoom hint": "Zooming:\nMousewheel—X axis;\nShift+mousewheel—Y axis;\nCtrl+mousewheel—both X and Y"
+  "Zoom hint": "Zooming:\nMousewheel—X axis;\nShift+mousewheel—Y axis;\nCtrl+mousewheel—both X and Y",
+  "Regular expression or FQDN": "Domain name or regex bounded with slashes (/domain\\.ru/)"
 }
