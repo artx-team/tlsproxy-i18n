@@ -1,3 +1,10 @@
+# [1.39.0](https://github.com/artx-team/tlsproxy-i18n/compare/v1.38.0...v1.39.0) (2024-04-22)
+
+
+### Features
+
+* **frontend:** translations domain regex ([0295a5f](https://github.com/artx-team/tlsproxy-i18n/commit/0295a5f314d49d2a6ac3b7b986dc72bc2feccc89))
+
 # [1.38.0](https://github.com/artx-team/tlsproxy-i18n/compare/v1.37.0...v1.38.0) (2024-04-19)
 
 
