@@ -441,5 +441,20 @@
   "Zoom hint": "Масштабирование:\nКолесо мыши — по оси X;\nShift+колесо — по оси Y;\nCtrl+колесо — по осям X и Y",
   "Ifaces displayed by default": "Интерфейсы, отображаемые по умолчанию",
   "Ifaces displayed by default hint": "На графике будут отображены только выбранные сетевые интерфейсы",
-  "Regular expression or FQDN": "Доменное имя или регулярное выражение, ограниченное слешами (/domain\\.ru/)"
+  "Regular expression or FQDN": "Доменное имя или регулярное выражение, ограниченное слешами (/domain\\.ru/)",
+  "VLAN list mode": "Режим списка VLAN",
+  "Bypass list": "Байпас",
+  "Proxy list": "Проксирование",
+  "VLAN list": "Список VLAN",
+  "VLAN id": "Идентификатор VLAN",
+  "Confirm VLAN deletion": "Подтвердите удаление VLAN",
+  "Remove VLAN": "Удалить VLAN",
+  "Proxying mode": "Режим проксирования",
+  "Proxying list": "Список проксирования/байпаса",
+  "Without proxying list": "Без списка проксирования/байпаса",
+  "Use list to proxy": "Использовать список для проксирования",
+  "Use list to bypass": "Использовать список для байпаса",
+  "Nope proxying mode hint": "В этом режиме не используются список проксирования/байпаса",
+  "Use list to proxy hint": "Список проксирования/байпаса будет использован для проксирования",
+  "Use list to bypass hint": "Список проксирования/байпаса будет использован для байпаса"
 }

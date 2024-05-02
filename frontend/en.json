@@ -441,5 +441,20 @@
   "Ifaces displayed by default": "Ifaces displayed by default",
   "Ifaces displayed by default hint": "Ifaces displayed by default hint",
   "Zoom hint": "Zooming:\nMousewheel—X axis;\nShift+mousewheel—Y axis;\nCtrl+mousewheel—both X and Y",
-  "Regular expression or FQDN": "Domain name or regex bounded with slashes (/domain\\.ru/)"
+  "Regular expression or FQDN": "Domain name or regex bounded with slashes (/domain\\.ru/)",
+  "VLAN list mode": "VLAN list mode",
+  "Bypass list": "Bypass",
+  "Proxy list": "Proxy",
+  "VLAN list": "VLAN list",
+  "VLAN id": "VLAN id",
+  "Confirm VLAN deletion": "Confirm VLAN deletion",
+  "Remove VLAN": "Remove VLAN",
+  "Proxying mode": "Proxying mode",
+  "Proxying list": "Proxying list",
+  "Without proxying list": "Without proxying list",
+  "Use list to proxy": "Use list to proxy",
+  "Use list to bypass": "Use list to bypass",
+  "Nope proxying mode hint": "Nope proxying mode hint",
+  "Use list to proxy hint": "Use list to proxy hint",
+  "Use list to bypass hint": "Use list to bypass hint"
 }
