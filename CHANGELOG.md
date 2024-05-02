@@ -1,3 +1,10 @@
+# [1.41.0](https://github.com/artx-team/tlsproxy-i18n/compare/v1.40.0...v1.41.0) (2024-05-02)
+
+
+### Features
+
+* **frontend:** translations for no proxy checkbox ([638b6ee](https://github.com/artx-team/tlsproxy-i18n/commit/638b6ee705aad3588d594661366374f5922e4291))
+
 # [1.40.0](https://github.com/artx-team/tlsproxy-i18n/compare/v1.39.0...v1.40.0) (2024-05-02)
 
 
