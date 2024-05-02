@@ -456,5 +456,7 @@
   "Use list to bypass": "Use list to bypass",
   "Nope proxying mode hint": "Nope proxying mode hint",
   "Use list to proxy hint": "Use list to proxy hint",
-  "Use list to bypass hint": "Use list to bypass hint"
+  "Use list to bypass hint": "Use list to bypass hint",
+  "Use no proxy list": "Use no proxy list",
+  "Use no proxy list hint": "Use no proxy list hint"
 }
