@@ -1,3 +1,10 @@
+## [1.41.2](https://github.com/artx-team/tlsproxy-i18n/compare/v1.41.1...v1.41.2) (2024-05-16)
+
+
+### Bug Fixes
+
+* **frontend:** x509 cert ([5cddcd8](https://github.com/artx-team/tlsproxy-i18n/commit/5cddcd8d5395800cf041adda9e0818a8ce9fcaf4))
+
 ## [1.41.1](https://github.com/artx-team/tlsproxy-i18n/compare/v1.41.0...v1.41.1) (2024-05-06)
 
 
