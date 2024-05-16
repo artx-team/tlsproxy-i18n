@@ -163,7 +163,7 @@
   "Certificates": "Сертификаты",
   "TLSproxy certificate": "Корневой сертификат TLSproxy",
   "New root certificate and private key": "Новый корневой сертификат и закрытый ключ",
-  "x509 certificate": "Сертификат в формате x509",
+  "x509 cert PEM or DER": "Сертификат x509 PEM или DER",
   "Private key": "Закрытый ключ",
   "Upload": "Загрузить",
   "Browse Files": "Обзор...",
