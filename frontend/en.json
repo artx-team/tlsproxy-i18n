@@ -163,7 +163,7 @@
   "Certificates": "Certificates",
   "TLSproxy certificate": "TLSproxy certificate",
   "New root certificate and private key": "New root certificate and private key",
-  "x509 cert PEM or DER": "x509 cert PEM or DER",
+  "x509 certificate": "x509 certificate",
   "Private key": "Private key",
   "Upload": "Upload",
   "Browse Files": "Browse Files",
