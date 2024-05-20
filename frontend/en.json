@@ -458,5 +458,7 @@
   "Use list to proxy hint": "Use list to proxy hint",
   "Use list to bypass hint": "Use list to bypass hint",
   "Use no proxy list": "Use no proxy list",
-  "Use no proxy list hint": "Use no proxy list hint"
+  "Use no proxy list hint": "Use no proxy list hint",
+  "Closed connections deletion delay": "Closed connections deletion delay",
+  "Autoupdate": "Autoupdate"
 }
