@@ -460,5 +460,6 @@
   "Use no proxy list": "Use no proxy list",
   "Use no proxy list hint": "Use no proxy list hint",
   "Closed connections deletion delay": "Closed connections deletion delay",
-  "Autoupdate": "Autoupdate"
+  "Autoupdate": "Autoupdate",
+  "Untrusted certificate": "Untrusted certificate"
 }
