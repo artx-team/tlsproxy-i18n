@@ -461,5 +461,6 @@
   "Use no proxy list hint": "Использовать список исключений",
   "Closed connections deletion delay": "Таймаут удаления закрытых соединений",
   "Autoupdate": "Автообновление",
-  "Untrusted certificate": "Недоверенный сертификат"
+  "Untrusted certificate": "Недоверенный сертификат",
+  "Maximal amount of processes": "Максимально {count} {count, plural, one{процесс} few{процесса} other{процессов}}"
 }
