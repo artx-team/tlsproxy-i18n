@@ -467,5 +467,7 @@
   "No notifications": "Нет уведомлений",
   "There are notifications": "Есть уведомления",
   "Demo expired": "Истек период демоверсии",
-  "License expired": "Лицензия просрочена"
+  "License expired": "Лицензия просрочена",
+  "Demo ending": "Истекает период демоверсии",
+  "License ending": "Истекает срок лицензии"
 }
