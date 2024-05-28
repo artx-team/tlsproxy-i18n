@@ -463,5 +463,9 @@
   "Autoupdate": "Автообновление",
   "Untrusted certificate": "Недоверенный сертификат",
   "Maximal amount of processes": "Максимально {count} {count, plural, one{процесс} few{процесса} other{процессов}}",
-  "No data for selected interval": "За выбранный период нет данных"
+  "No data for selected interval": "За выбранный период нет данных",
+  "No notifications": "Нет уведомлений",
+  "There are notifications": "Есть уведомления",
+  "Demo expired": "Истек период демоверсии",
+  "License expired": "Лицензия просрочена"
 }

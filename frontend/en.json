@@ -463,5 +463,9 @@
   "Autoupdate": "Autoupdate",
   "Untrusted certificate": "Untrusted certificate",
   "Maximal amount of processes": "{count} {count, plural, one{process} other{processes}} max",
-  "No data for selected interval": "No data for selected interval"
+  "No data for selected interval": "No data for selected interval",
+  "No notifications": "No notifications",
+  "There are notifications": "Some notifications",
+  "Demo expired": "Demo expired",
+  "License expired": "License expired"
 }
