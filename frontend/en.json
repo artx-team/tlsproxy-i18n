@@ -462,5 +462,6 @@
   "Closed connections deletion delay": "Closed connections deletion delay",
   "Autoupdate": "Autoupdate",
   "Untrusted certificate": "Untrusted certificate",
-  "Maximal amount of processes": "{count} {count, plural, one{process} other{processes}} max"
+  "Maximal amount of processes": "{count} {count, plural, one{process} other{processes}} max",
+  "No data for selected interval": "No data for selected interval"
 }

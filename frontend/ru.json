@@ -462,5 +462,6 @@
   "Closed connections deletion delay": "Таймаут удаления закрытых соединений",
   "Autoupdate": "Автообновление",
   "Untrusted certificate": "Недоверенный сертификат",
-  "Maximal amount of processes": "Максимально {count} {count, plural, one{процесс} few{процесса} other{процессов}}"
+  "Maximal amount of processes": "Максимально {count} {count, plural, one{процесс} few{процесса} other{процессов}}",
+  "No data for selected interval": "За выбранный период нет данных"
 }
