@@ -503,5 +503,7 @@
   "ReadSyncPeers": "Fetching sync data",
   "ReadSyncKey": "Fetching sync key",
   "WriteSyncKey": "Writing sync key",
-  "DeleteSyncKey": "Deleting sync key"
+  "DeleteSyncKey": "Deleting sync key",
+  "MAC must be different from destination MAC": "MAC must be different from destination MAC",
+  "MAC must be unicast": "MAC must be unicast"
 }

@@ -503,5 +503,7 @@
   "ReadSyncPeers": "Получение данных по синхронизации",
   "ReadSyncKey": "Получение ключа синхронизации",
   "WriteSyncKey": "Запись ключа синхронизации",
-  "DeleteSyncKey": "Удаление ключа синхронизации"
+  "DeleteSyncKey": "Удаление ключа синхронизации",
+  "MAC must be different from destination MAC": "Адрес должен отличаться от MAC назначения",
+  "MAC must be unicast": "MAC должен быть unicast"
 }
