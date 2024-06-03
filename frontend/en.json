@@ -499,6 +499,7 @@
   "DeleteAutoExclude": "Deleting auto-exclusions",
   "ReadVlanStats": "Fetching VLAN statistics",
   "ReadIfaceStats": "Fetching interface statistics",
+  "ReadSettings": "Fetching TLSproxy settings",
   "ChangeSettings": "Changing TLSproxy settings",
   "ReadSyncPeers": "Fetching sync data",
   "ReadSyncKey": "Fetching sync key",
