@@ -499,6 +499,7 @@
   "DeleteAutoExclude": "Удаление автоисключений",
   "ReadVlanStats": "Получение статистики по VLAN",
   "ReadIfaceStats": "Получение статистики по интерфейсам",
+  "ReadSettings": "Получение настроек TLSproxy",
   "ChangeSettings": "Изменение настроек TLSproxy",
   "ReadSyncPeers": "Получение данных по синхронизации",
   "ReadSyncKey": "Получение ключа синхронизации",
