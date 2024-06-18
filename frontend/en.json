@@ -506,5 +506,12 @@
   "WriteSyncKey": "Writing sync key",
   "DeleteSyncKey": "Deleting sync key",
   "MAC must be different from destination MAC": "MAC must be different from destination MAC",
-  "MAC must be unicast": "MAC must be unicast"
+  "MAC must be unicast": "MAC must be unicast",
+  "Proxying record value": "Proxying record value",
+  "Type": "Type",
+  "New proxying record": "New proxying record",
+  "Add proxying record": "Add proxying record",
+  "Confirm proxying record deletion": "Confirm proxying record deletion",
+  "Proxying record deleted": "Proxying record deleted",
+  "Proxying record saved": "Proxying record saved"
 }

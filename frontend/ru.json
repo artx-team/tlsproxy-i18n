@@ -506,5 +506,12 @@
   "WriteSyncKey": "Запись ключа синхронизации",
   "DeleteSyncKey": "Удаление ключа синхронизации",
   "MAC must be different from destination MAC": "Адрес должен отличаться от MAC назначения",
-  "MAC must be unicast": "MAC должен быть unicast"
+  "MAC must be unicast": "MAC должен быть unicast",
+  "Proxying record value": "Значение",
+  "Type": "Тип",
+  "New proxying record": "Новая запись",
+  "Add proxying record": "Добавить запись",
+  "Confirm proxying record deletion": "Подтвердите удаление записи",
+  "Proxying record deleted": "Запись удалена",
+  "Proxying record saved": "Запись сохранена"
 }
