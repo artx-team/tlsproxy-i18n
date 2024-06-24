@@ -246,7 +246,7 @@
   "Explicit mode": "Explicit mode",
   "Explicit mode hint": "L3 (Router-mode). TLSproxy has IP addresses for the Internal and External interfaces and works as an explicit default network gateway for Internet access",
   "Classic mode": "Classic mode",
-  "Classic mode hint": "Decrypts SSL/TLS traffic of the organization's users when they access Internet resources",
+  "Classic mode hint": "Decrypts SSL/TLS traffic of the organization"s users when they access Internet resources",
   "Reverse proxy mode": "Reverse proxy mode",
   "Reverse proxy mode hint": "Decrypts SSL/TLS traffic directed to protected resources, for example, to web hosting servers",
   "Autoexclusions": "Autoexclusions",
@@ -519,5 +519,14 @@
   "Speed": "Speed",
   "Transmission speed": "Transmission speed",
   "Receiving speed": "Receiving speed",
-  "Dashboard": "Dashboard"
+  "Dashboard": "Dashboard",
+  "bit": "bit",
+  "kbit": "kbit",
+  "mbit": "mbit",
+  "gbit": "gbit",
+  "tbit": "tbit",
+  "pbit": "pbit",
+  "ebit": "ebit",
+  "zbit": "zbit",
+  "ybit": "ybit"
 }
