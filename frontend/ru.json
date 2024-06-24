@@ -513,5 +513,11 @@
   "Add proxying record": "Добавить запись",
   "Confirm proxying record deletion": "Подтвердите удаление записи",
   "Proxying record deleted": "Запись удалена",
-  "Proxying record saved": "Запись сохранена"
+  "Proxying record saved": "Запись сохранена",
+  "Proxy tasks amount": "Процессы TLSproxy",
+  "Connections amount": "Количество соединений",
+  "Speed": "Скорость",
+  "Transmission speed": "Скорость передачи",
+  "Receiving speed": "Скорость получения",
+  "Dashboard": "Панель управления"
 }

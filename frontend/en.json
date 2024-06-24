@@ -513,5 +513,11 @@
   "Add proxying record": "Add proxying record",
   "Confirm proxying record deletion": "Confirm proxying record deletion",
   "Proxying record deleted": "Proxying record deleted",
-  "Proxying record saved": "Proxying record saved"
+  "Proxying record saved": "Proxying record saved",
+  "Proxy tasks amount": "Proxy tasks amount",
+  "Connections amount": "Connections amount",
+  "Speed": "Speed",
+  "Transmission speed": "Transmission speed",
+  "Receiving speed": "Receiving speed",
+  "Dashboard": "Dashboard"
 }
