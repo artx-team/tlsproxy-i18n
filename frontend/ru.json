@@ -560,5 +560,6 @@
   "Proxy logging Extended": "Расширенный",
   "Proxy logging Extended hint": "MAIN, SOCK, SSL, BIO, MIRROR, QUEUE, DETECTOR, CONN, NODEJS, CERTDB, QUIC",
   "Proxy logging Maximal": "Максимальный",
-  "Proxy logging Maximal hint": "Расширенный + SOCK_DATA, SSL_DATA, NGTCP2, TCPINFO, DUMPBLOCK"
+  "Proxy logging Maximal hint": "Расширенный + SOCK_DATA, SSL_DATA, NGTCP2, TCPINFO, DUMPBLOCK",
+  "Use previous cert data": "Использовать данные существующего сертификата"
 }
