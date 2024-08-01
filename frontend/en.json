@@ -531,6 +531,7 @@
   "ybit": "ybit",
   "Logging": "Logging",
   "Logging targets": "Logging targets",
+  "Add logging target": "Add logging target",
   "pino-loki": "Loki",
   "pino-pretty": "Console",
   "Level": "Level",
