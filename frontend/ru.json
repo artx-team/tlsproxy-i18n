@@ -550,5 +550,6 @@
   "Ignore fields hint": "Например: time,hostname",
   "Delete logging target": "Удалить цель логирования",
   "Confirm logging target deletion": "Подтвердите удаление цели логирования",
-  "Logging settings updated": "Настройки логирования сохранены"
+  "Logging settings updated": "Настройки логирования сохранены",
+  "Must restart service to apply new settings": "Требуется перезапуск сервиса для применения настроек"
 }

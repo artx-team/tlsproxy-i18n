@@ -550,5 +550,6 @@
   "Ignore fields hint": "Eg: time,hostname",
   "Delete logging target": "Delete logging target",
   "Confirm logging target deletion": "Confirm logging target deletion",
-  "Logging settings updated": "Logging settings updated"
+  "Logging settings updated": "Logging settings updated",
+  "Must restart service to apply new settings": "Must restart service to apply new settings"
 }
