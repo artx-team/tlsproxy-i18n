@@ -551,5 +551,14 @@
   "Delete logging target": "Delete logging target",
   "Confirm logging target deletion": "Confirm logging target deletion",
   "Logging settings updated": "Logging settings updated",
-  "Must restart service to apply new settings": "Must restart service to apply new settings"
+  "Must restart service to apply new settings": "Must restart service to apply new settings",
+  "Proxy logging level": "TLSproxy process Logging level",
+  "Proxy logging None": "None",
+  "Proxy logging None hint": "Do not log anything",
+  "Proxy logging Minimal": "Minimal",
+  "Proxy logging Minimal hint": "Log only system info on start",
+  "Proxy logging Extended": "Extended",
+  "Proxy logging Extended hint": "MAIN, SOCK, SSL, BIO, MIRROR, QUEUE, DETECTOR, CONN, NODEJS, CERTDB, QUIC",
+  "Proxy logging Maximal": "Proxy logging Maximal",
+  "Proxy logging Maximal hint": "Extended + SOCK_DATA, SSL_DATA, NGTCP2, TCPINFO, DUMPBLOCK"
 }

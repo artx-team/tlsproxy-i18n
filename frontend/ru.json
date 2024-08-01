@@ -551,5 +551,14 @@
   "Delete logging target": "Удалить цель логирования",
   "Confirm logging target deletion": "Подтвердите удаление цели логирования",
   "Logging settings updated": "Настройки логирования сохранены",
-  "Must restart service to apply new settings": "Требуется перезапуск сервиса для применения настроек"
+  "Must restart service to apply new settings": "Требуется перезапуск сервиса для применения настроек",
+  "Proxy logging level": "Уровень логирования процессов TLSproxy",
+  "Proxy logging None": "Отсутствует",
+  "Proxy logging None hint": "Не логировать ничего",
+  "Proxy logging Minimal": "Минимальный",
+  "Proxy logging Minimal hint": "Вывод только системной информации на старте",
+  "Proxy logging Extended": "Расширенный",
+  "Proxy logging Extended hint": "MAIN, SOCK, SSL, BIO, MIRROR, QUEUE, DETECTOR, CONN, NODEJS, CERTDB, QUIC",
+  "Proxy logging Maximal": "Максимальный",
+  "Proxy logging Maximal hint": "Расширенный + SOCK_DATA, SSL_DATA, NGTCP2, TCPINFO, DUMPBLOCK"
 }
