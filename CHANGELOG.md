@@ -1,3 +1,10 @@
+## [1.59.1](https://github.com/artx-team/tlsproxy-i18n/compare/v1.59.0...v1.59.1) (2024-08-06)
+
+
+### Bug Fixes
+
+* **frontend:** rename connectionState keys ([c3bfc05](https://github.com/artx-team/tlsproxy-i18n/commit/c3bfc05388553d579dd66b9ee4b42a78a58526ce))
+
 # [1.59.0](https://github.com/artx-team/tlsproxy-i18n/compare/v1.58.0...v1.59.0) (2024-08-01)
 
 
