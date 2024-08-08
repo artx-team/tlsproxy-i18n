@@ -595,5 +595,8 @@
     "server": "сервер",
     "unknown": "неизвестно"
   },
-  "Server and reason": "Сервер и причина"
+  "Server and reason": "Сервер и причина",
+  "Trigger count": "Количество срабатываний",
+  "Total": "Всего",
+  "Server MAC": "MAC сервера"
 }

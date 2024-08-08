@@ -595,5 +595,8 @@
     "server": "server",
     "unknown": "unknown"
   },
-  "Server and reason": "Server and reason"
+  "Server and reason": "Server and reason",
+  "Trigger count": "Trigger count",
+  "Total": "Total",
+  "Server MAC": "Server MAC"
 }
