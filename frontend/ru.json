@@ -339,7 +339,7 @@
   "Confirm deletion of autoexclusion": "Подтвердите удаление автоисключения",
   "Confirm move of selected autoexclusions": "Подтвердите перемещение выбранных автоисключений",
   "Confirm move of autoexclusion": "Подтвердите перемещение автоисключения",
-  "Overwrite value for selected records": "Перезаписать значение для выбранных записей",
+  "Overwrite value for selected records": "Перезаписать значение для выбранных автоисключений",
   "Server port": "Порт сервера",
   "Enable overwriting": "Включить перезапись",
   "Disable overwriting": "Выключить перезапись",
@@ -598,5 +598,6 @@
   "Server and reason": "Сервер и причина",
   "Trigger count": "Количество срабатываний",
   "Total": "Всего",
-  "Server MAC": "MAC сервера"
+  "Server MAC": "MAC сервера",
+  "Certificate hash": "Хеш сертификата"
 }
