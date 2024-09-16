@@ -599,5 +599,6 @@
   "Trigger count": "Количество срабатываний",
   "Total": "Всего",
   "Server MAC": "MAC сервера",
-  "Certificate hash": "Хеш сертификата"
+  "Certificate hash": "Хеш сертификата",
+  "End of life": "Окончание"
 }
