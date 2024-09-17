@@ -440,7 +440,7 @@
   "Zoom hint": "Масштабирование:\nКолесо мыши — по оси X;\nShift+колесо — по оси Y;\nCtrl+колесо — по осям X и Y",
   "Ifaces displayed by default": "Интерфейсы, отображаемые по умолчанию",
   "Ifaces displayed by default hint": "На графике будут отображены только выбранные сетевые интерфейсы",
-  "Regular expression or FQDN": "Доменное имя или регулярное выражение, ограниченное слешами (/domain\\.ru/)",
+  "Domain with wildcard": "Доменное имя с возможностью шаблона подстановки (foo.org, *.foo.org, bar*.foo.org)",
   "VLAN list mode": "Режим списка VLAN",
   "Bypass list": "Список для байпаса",
   "Proxy list": "Список для проксирования",
@@ -600,5 +600,7 @@
   "Total": "Всего",
   "Server MAC": "MAC сервера",
   "Certificate hash": "Хеш сертификата",
-  "End of life": "Окончание"
+  "End of life": "Окончание",
+  "Invalid domain wildcard": "Неверный домен или шаблон подстановки",
+  "Password file": "Файл-пароль"
 }

@@ -440,7 +440,7 @@
   "Ifaces displayed by default": "Ifaces displayed by default",
   "Ifaces displayed by default hint": "Ifaces displayed by default hint",
   "Zoom hint": "Zooming:\nMousewheel—X axis;\nShift+mousewheel—Y axis;\nCtrl+mousewheel—both X and Y",
-  "Regular expression or FQDN": "Domain name or regex bounded with slashes (/domain\\.ru/)",
+  "Domain with wildcard": "Domain with wildcard (foo.org, *.foo.org, bar*.foo.org)",
   "VLAN list mode": "VLAN list mode",
   "Bypass list": "Bypass",
   "Proxy list": "Proxy",
@@ -600,5 +600,7 @@
   "Total": "Total",
   "Server MAC": "Server MAC",
   "Certificate hash": "Certificate hash",
-  "End of life": "End of life"
+  "End of life": "End of life",
+  "Invalid domain wildcard": "Invalid domain wildcard",
+  "Password file": "Password file"
 }
