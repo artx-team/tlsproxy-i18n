@@ -1,3 +1,4 @@
 {
-  "INVALID_LICENSE": "Invalid license"
+  "INVALID_LICENSE": "Invalid license",
+  "NO_PROXY_USE_THIS_GROUP": "Some exclusions use this group"
 }
