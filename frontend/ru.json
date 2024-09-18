@@ -605,5 +605,7 @@
   "Certificate hash": "Хеш сертификата",
   "End of life": "Окончание",
   "Invalid domain wildcard": "Неверный домен или шаблон подстановки",
-  "Password file": "Файл-пароль"
+  "Password file": "Файл-пароль",
+  "Go to": "Перейти",
+  "Some exclusions use this group": "{count} {count, plural, one{исключение} few{исключения} other{исключений}} используют эту группу"
 }

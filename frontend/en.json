@@ -605,5 +605,7 @@
   "Certificate hash": "Certificate hash",
   "End of life": "End of life",
   "Invalid domain wildcard": "Invalid domain wildcard",
-  "Password file": "Password file"
+  "Password file": "Password file",
+  "Go to": "View",
+  "Some exclusions use this group": "{count} {count, plural, one{exclusion uses} other{exclusions use}} this group"
 }
