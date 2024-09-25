@@ -607,5 +607,16 @@
   "Invalid domain wildcard": "Invalid domain wildcard",
   "Password file": "Password file",
   "Go to": "View",
-  "Some exclusions use this group": "{count} {count, plural, one{exclusion uses} other{exclusions use}} this group"
+  "Some exclusions use this group": "{count} {count, plural, one{exclusion uses} other{exclusions use}} this group",
+  "Auto-exclusion TTL": "Auto-exclusion TTL",
+  "TTL": "TTL",
+  "AE-infinite": "Infinite",
+  "AE-certificate-based": "Certificate based",
+  "AE-progressive": "Progressive",
+  "AE-static": "Static",
+  "TTL progress": "TTL progress",
+  "Add TTL": "Add TTL",
+  "TTL must be unique": "TTL must be unique",
+  "Confirm TTL deletion": "Confirm TTL deletion",
+  "Remove TTL": "Remove TTL"
 }
