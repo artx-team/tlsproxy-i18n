@@ -579,6 +579,7 @@
     "handshake_failure": "handshake failure",
     "no_certificate": "no certificate",
     "bad_certificate": "bad certificate",
+    "bad_certificate_hash_value": "bad certificate hash value",
     "unsupported_certificate": "unsupported certificate",
     "certificate_revoked": "certificate revoked",
     "certificate_expired": "certificate expired",
