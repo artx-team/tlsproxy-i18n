@@ -619,5 +619,7 @@
   "Add TTL": "Add TTL",
   "TTL must be unique": "TTL must be unique",
   "Confirm TTL deletion": "Confirm TTL deletion",
-  "Remove TTL": "Remove TTL"
+  "Remove TTL": "Remove TTL",
+  "Wildcard for clients without root cert": "Wildcard for clients without root cert",
+  "Wildcard for clients without root cert hint": "Create auto-exclusion with wildcard to bypass everything on the client without TLSproxy root cert"
 }
