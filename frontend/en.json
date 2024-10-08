@@ -634,5 +634,11 @@
   "Intercept": "Intercept",
   "Bypass": "Bypass",
   "Drop": "Drop",
-  "Filters": "Filters"
+  "Filters": "Filters",
+  "Delete filter": "Delete filter",
+  "Delete proxying rule": "Delete filter",
+  "Confirm proxying rule deletion": "Confirm proxying rule deletion",
+  "Proxying rules": "Proxying rules",
+  "Add proxying rule": "Add proxying rule",
+  "Proxying rule": "Proxying rule"
 }

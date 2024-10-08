@@ -624,7 +624,7 @@
   "Remove TTL": "Удалить время жизни",
   "Wildcard for clients without root cert": "Универсальное автоисключение для клиентов без корневого сертификата",
   "Wildcard for clients without root cert hint": "Создание автоисключения для байпаса любого соединения на клиенте с отсутствующим корневым сертификатом TLSproxy",
-  "At least one value is required": "Минимум одно значение обязательно в фильтре «{type}»",
+  "At least one value is required": "Заполните хотя бы одно значение в фильтре «{type}»",
   "Protocol": "Протокол",
   "Priority": "Приоритет",
   "Proxying rule flow": "Поток",
@@ -639,5 +639,6 @@
   "Delete proxying rule": "Удалить правило проксирования",
   "Confirm proxying rule deletion": "Подтвердите удаление правила проксирования",
   "Proxying rules": "Правила проксирования",
-  "Add proxying rule": "Добавить правило"
+  "Add proxying rule": "Добавить правило",
+  "Proxying rule": "Правило проксирования"
 }
