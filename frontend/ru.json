@@ -640,5 +640,6 @@
   "Confirm proxying rule deletion": "Подтвердите удаление правила проксирования",
   "Proxying rules": "Правила проксирования",
   "Add proxying rule": "Добавить правило",
-  "Proxying rule": "Правило проксирования"
+  "Proxying rule": "Правило проксирования",
+  "Proxying rule saved": "Правило проксирования сохранено"
 }
