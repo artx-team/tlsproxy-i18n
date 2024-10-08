@@ -1,3 +1,10 @@
+## [1.74.1](https://github.com/artx-team/tlsproxy-i18n/compare/v1.74.0...v1.74.1) (2024-10-08)
+
+
+### Bug Fixes
+
+* **frontend:** add soft hyphens ([8bf4e96](https://github.com/artx-team/tlsproxy-i18n/commit/8bf4e960a125e0deba7411a519ee7262a7f57a8a))
+
 # [1.74.0](https://github.com/artx-team/tlsproxy-i18n/compare/v1.73.0...v1.74.0) (2024-10-08)
 
 
