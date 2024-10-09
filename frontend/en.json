@@ -641,5 +641,8 @@
   "Proxying rules": "Proxying rules",
   "Add proxying rule": "Add proxying rule",
   "Proxying rule": "Proxying rule",
-  "Proxying rule saved": "Proxying rule saved"
+  "Proxying rule saved": "Proxying rule saved",
+  "Invalid VLAN": "Invalid VLAN",
+  "Priority Code Point": "Priority Code Point",
+  "Any": "Any"
 }

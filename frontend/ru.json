@@ -641,5 +641,8 @@
   "Proxying rules": "Правила проксирования",
   "Add proxying rule": "Добавить правило",
   "Proxying rule": "Правило проксирования",
-  "Proxying rule saved": "Правило проксирования сохранено"
+  "Proxying rule saved": "Правило проксирования сохранено",
+  "Invalid VLAN": "Некорректный VLAN",
+  "Priority Code Point": "Приоритет кадра",
+  "Any": "Любой"
 }
