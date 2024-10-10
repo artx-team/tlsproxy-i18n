@@ -644,5 +644,8 @@
   "Proxying rule saved": "Proxying rule saved",
   "Invalid VLAN": "Invalid VLAN",
   "Priority Code Point": "Priority Code Point",
-  "Any": "Any"
+  "Any": "Any",
+  "Required filters must be filled": "Required filters must be filled: {filters}",
+  "IPv4 is expected": "IPv4 is expected",
+  "IPv6 is expected": "IPv6 is expected"
 }

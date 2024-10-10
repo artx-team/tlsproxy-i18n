@@ -644,5 +644,8 @@
   "Proxying rule saved": "Правило проксирования сохранено",
   "Invalid VLAN": "Некорректный VLAN",
   "Priority Code Point": "Приоритет кадра",
-  "Any": "Любой"
+  "Any": "Любой",
+  "Required filters must be filled": "Должны быть заполнены фильтры: {filters}",
+  "IPv4 is expected": "Ожидается IPv4",
+  "IPv6 is expected": "Ожидается IPv6"
 }
