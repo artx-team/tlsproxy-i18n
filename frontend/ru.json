@@ -649,5 +649,6 @@
   "IPv4 is expected": "Ожидается IPv4",
   "IPv6 is expected": "Ожидается IPv6",
   "Has dependent filters": "Есть зависимые фильтры: {filters}",
-  "No proxying rules": "Нет правил проксирования"
+  "No proxying rules": "Нет правил проксирования",
+  "Rules": "Правила"
 }
