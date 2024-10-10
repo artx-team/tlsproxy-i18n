@@ -647,5 +647,6 @@
   "Any": "Любой",
   "Required filters must be filled": "Должны быть заполнены фильтры: {filters}",
   "IPv4 is expected": "Ожидается IPv4",
-  "IPv6 is expected": "Ожидается IPv6"
+  "IPv6 is expected": "Ожидается IPv6",
+  "Has dependent filters": "Есть зависимые фильтры: {filters}"
 }
