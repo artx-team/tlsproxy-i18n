@@ -1,4 +1,8 @@
 {
   "NOT_FOUND": "Proxying rule not found",
-  "INVALID_RULE": "Invalid rule"
+  "INVALID_RULE": "Invalid rule",
+  "FILTERS_MUST_BE_UNIQUE": "Filter types must be unique",
+  "IPV4_EXPECTED": "IPv4 expected",
+  "IPV6_EXPECTED": "IPv6 expected",
+  "PROTOCOL_REQUIRED": "Protocol is required"
 }
