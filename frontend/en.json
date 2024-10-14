@@ -649,5 +649,8 @@
   "Has dependent filters": "Has dependent filters: {filters}",
   "No proxying rules": "No proxying rules",
   "Rules": "Rules",
-  "Traffic management": "Traffic management"
+  "Traffic management": "Traffic management",
+  "Shared rule": "Shared rule",
+  "Shared rule hint": "Proxying rule applied in all instances of TLSproxy",
+  "Native rule": "Native rule"
 }

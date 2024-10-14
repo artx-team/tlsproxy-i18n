@@ -649,5 +649,8 @@
   "Has dependent filters": "Есть зависимые фильтры: {filters}",
   "No proxying rules": "Нет правил проксирования",
   "Rules": "Правила",
-  "Traffic management": "Управление трафиком"
+  "Traffic management": "Управление трафиком",
+  "Shared rule": "Общее правило",
+  "Shared rule hint": "Правило проксирования, применяемое во всех экземплярах сервиса TLSproxy",
+  "Native rule": "Собственное правило"
 }
