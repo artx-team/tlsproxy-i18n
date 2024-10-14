@@ -1,3 +1,10 @@
+## [1.81.1](https://github.com/artx-team/tlsproxy-i18n/compare/v1.81.0...v1.81.1) (2024-10-14)
+
+
+### Bug Fixes
+
+* **frontend:** translations for connectionState ([a5ad46c](https://github.com/artx-team/tlsproxy-i18n/commit/a5ad46c0c03dc8c2970239b1acceb4c12c13f857))
+
 # [1.81.0](https://github.com/artx-team/tlsproxy-i18n/compare/v1.80.0...v1.81.0) (2024-10-10)
 
 
