@@ -1,3 +1,10 @@
+# [1.83.0](https://github.com/artx-team/tlsproxy-i18n/compare/v1.82.0...v1.83.0) (2024-10-21)
+
+
+### Features
+
+* **frontend:** new translations ([5c3fe84](https://github.com/artx-team/tlsproxy-i18n/commit/5c3fe84af8f2690cb90a98c2917a46601c934899))
+
 # [1.82.0](https://github.com/artx-team/tlsproxy-i18n/compare/v1.81.1...v1.82.0) (2024-10-14)
 
 
