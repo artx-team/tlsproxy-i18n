@@ -653,6 +653,6 @@
   "Encoding": "Кодирование",
   "hex": "hex",
   "utf-8": "utf-8",
-  "ALPN size exceeds 255 bytes": "ALPN size exceeds 255 bytes",
-  "ALPN length must be even": "ALPN hex string length must be even"
+  "ALPN size exceeds 255 bytes": "Размер ALPN превышает 255 байтов",
+  "ALPN length must be even": "Длина шестнадцатеричного представления ALPN должна быть кратна 2"
 }
