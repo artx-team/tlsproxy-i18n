@@ -1,3 +1,10 @@
+## [1.84.1](https://github.com/artx-team/tlsproxy-i18n/compare/v1.84.0...v1.84.1) (2024-10-25)
+
+
+### Bug Fixes
+
+* **frontend:** fix translations ([3e44066](https://github.com/artx-team/tlsproxy-i18n/commit/3e440665a6012c3d9a348faca352d19b2cfbf49a))
+
 # [1.84.0](https://github.com/artx-team/tlsproxy-i18n/compare/v1.83.0...v1.84.0) (2024-10-25)
 
 
