@@ -649,5 +649,8 @@
   "Delete iface pair": "Delete interface pair",
   "Confirm iface pair deletion": "Confirm interface pair deletion",
   "Span interface": "Span interface",
-  "Span interface hint": "Span interface hint"
+  "Span interface hint": "Span interface hint",
+  "Encoding": "Кодирование",
+  "hex": "hex",
+  "utf-8": "utf-8"
 }
