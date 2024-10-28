@@ -654,5 +654,6 @@
   "hex": "hex",
   "utf-8": "utf-8",
   "ALPN size exceeds 255 bytes": "Размер ALPN превышает 255 байтов",
-  "ALPN length must be even": "Длина шестнадцатеричного представления ALPN должна быть кратна 2"
+  "ALPN length must be even": "Длина шестнадцатеричного представления ALPN должна быть кратна 2",
+  "Proxying rule priority hint": "По умолчанию 32768. Правила применяются по убыванию приоритета"
 }

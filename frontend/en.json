@@ -654,5 +654,6 @@
   "hex": "hex",
   "utf-8": "utf-8",
   "ALPN size exceeds 255 bytes": "ALPN size exceeds 255 bytes",
-  "ALPN length must be even": "ALPN hex string length must be even"
+  "ALPN length must be even": "ALPN hex string length must be even",
+  "Proxying rule priority hint": "Default is 32768. Rules are applied in descending order of priority."
 }
