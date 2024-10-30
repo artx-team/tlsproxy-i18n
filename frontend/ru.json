@@ -110,6 +110,7 @@
   "Non-excludable resource saved": "Ресурс сохранен",
   "Confirm non-excludable resource deletion": "Подтвердите удаление ресурса",
   "Delete non-excludable resource": "Удалить ресурс",
+  "No non-excludable resources": "Нет неисключаемых ресурсов",
   "Created at": "Создан",
   "Comment": "Комментарий",
   "Use whitelist": "Использовать белый/черный список",
@@ -655,5 +656,7 @@
   "utf-8": "utf-8",
   "ALPN size exceeds 255 bytes": "Размер ALPN превышает 255 байтов",
   "ALPN length must be even": "Длина шестнадцатеричного представления ALPN должна быть кратна 2",
-  "Proxying rule priority hint": "По умолчанию 32768. Правила применяются по убыванию приоритета"
+  "Proxying rule priority hint": "По умолчанию 32768. Правила применяются по убыванию приоритета",
+  "No exclusions": "Нет исключений",
+  "No auto-exclusions": "Нет автоисключений"
 }

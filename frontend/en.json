@@ -110,6 +110,7 @@
   "Non-excludable resource saved": "Non-excludable resource saved",
   "Confirm non-excludable resource deletion": "Confirm non-excludable resource deletion",
   "Delete non-excludable resource": "Delete non-excludable resource",
+  "No non-excludable resources": "No non-excludable resources",
   "Created at": "Created at",
   "Comment": "Comment",
   "Use whitelist": "Use whitelist",
@@ -655,5 +656,7 @@
   "utf-8": "utf-8",
   "ALPN size exceeds 255 bytes": "ALPN size exceeds 255 bytes",
   "ALPN length must be even": "ALPN hex string length must be even",
-  "Proxying rule priority hint": "Default is 32768. Rules are applied in descending order of priority."
+  "Proxying rule priority hint": "Default is 32768. Rules are applied in descending order of priority.",
+  "No exclusions": "No exclusions",
+  "No auto-exclusions": "No auto-exclusions"
 }
