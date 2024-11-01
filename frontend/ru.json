@@ -90,6 +90,7 @@
   "Add exclusion": "Добавить исключение",
   "Exclusion": "Исключение",
   "Server IP and port": "IP и порт сервера",
+  "Server IP and optional port": "IP сервера и опциональный порт",
   "Server IP": "IP сервера",
   "Client IP": "IP клиента",
   "Source MAC": "MAC клиента",

@@ -90,6 +90,7 @@
   "Add exclusion": "Add exclusion",
   "Exclusion": "Exclusion",
   "Server IP and port": "Server IP and port",
+  "Server IP and optional port": "Server IP and optional port",
   "Server IP": "Server IP",
   "Client IP": "Client IP",
   "Source MAC": "Client MAC",
