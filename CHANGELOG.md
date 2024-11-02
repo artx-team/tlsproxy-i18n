@@ -1,3 +1,10 @@
+## [1.89.1](https://github.com/artx-team/tlsproxy-i18n/compare/v1.89.0...v1.89.1) (2024-11-02)
+
+
+### Bug Fixes
+
+* **frontend:** connectionState enums ([1d69739](https://github.com/artx-team/tlsproxy-i18n/commit/1d69739ac037eec822256e22b1bc14f17f1ce2d0))
+
 # [1.89.0](https://github.com/artx-team/tlsproxy-i18n/compare/v1.88.0...v1.89.0) (2024-11-02)
 
 
