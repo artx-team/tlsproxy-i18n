@@ -659,5 +659,7 @@
   "ALPN length must be even": "ALPN hex string length must be even",
   "Proxying rule priority hint": "Default is 32768. Rules are applied in descending order of priority.",
   "No exclusions": "No exclusions",
-  "No auto-exclusions": "No auto-exclusions"
+  "No auto-exclusions": "No auto-exclusions",
+  "Value already exists in group": "Value already exists in group ”{name}”",
+  "Go": "Go"
 }

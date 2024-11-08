@@ -659,5 +659,7 @@
   "ALPN length must be even": "Длина шестнадцатеричного представления ALPN должна быть кратна 2",
   "Proxying rule priority hint": "По умолчанию 32768. Правила применяются по убыванию приоритета",
   "No exclusions": "Нет исключений",
-  "No auto-exclusions": "Нет автоисключений"
+  "No auto-exclusions": "Нет автоисключений",
+  "Value already exists in group": "Значение уже существует в группе «{name}»",
+  "Go": "Перейти"
 }
