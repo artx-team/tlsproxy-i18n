@@ -661,5 +661,16 @@
   "No exclusions": "Нет исключений",
   "No auto-exclusions": "Нет автоисключений",
   "Value already exists in group": "Значение уже существует в группе «{name}»",
-  "Go": "Перейти"
+  "Go": "Перейти",
+  "Disable": "Выключить",
+  "Enable": "Включить",
+  "Confirm deletion of selected proxying rules": "Подтвердите удаление выбранных правил",
+  "Proxying rules deleted": "Правила проксирования удалены",
+  "No group data": "Нет значений",
+  "Confirm deletion of selected non-excludable resources": "Подтвердите удаление выбранных ресурсов",
+  "Non-excludable resources deleted": "Неисключаемые ресурсы удалены",
+  "Confirm deletion of selected exclusions": "Подтвердите удаление выбранных исключений",
+  "Exclusions deleted": "Исключения удалены",
+  "Confirm deletion of selected values": "Подтвердите удаление выбранных значений",
+  "Values deleted": "Значения удалены"
 }

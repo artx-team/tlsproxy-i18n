@@ -661,5 +661,16 @@
   "No exclusions": "No exclusions",
   "No auto-exclusions": "No auto-exclusions",
   "Value already exists in group": "Value already exists in group ”{name}”",
-  "Go": "Go"
+  "Go": "Go",
+  "Disable": "Disable",
+  "Enable": "Enable",
+  "Confirm deletion of selected proxying rules": "Confirm deletion of selected proxying rules",
+  "Proxying rules deleted": "Proxying rules deleted",
+  "No group data": "No group data",
+  "Confirm deletion of selected non-excludable resources": "Confirm deletion of selected non-excludable resources",
+  "Non-excludable resources deleted": "Non-excludable resources deleted",
+  "Confirm deletion of selected exclusions": "Confirm deletion of selected exclusions",
+  "Exclusions deleted": "Exclusions deleted",
+  "Confirm deletion of selected values": "Confirm deletion of selected values",
+  "Values deleted": "Values deleted"
 }
