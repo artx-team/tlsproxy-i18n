@@ -1,3 +1,11 @@
+## [1.72.1](https://github.com/artx-team/tlsproxy-i18n/compare/v1.72.0...v1.72.1) (2024-11-18)
+
+
+### Bug Fixes
+
+* **frontend:** new translations for iface span ([d5f2e8a](https://github.com/artx-team/tlsproxy-i18n/commit/d5f2e8ab87a5923f784f017a39888e74d0ba5925))
+* release ([a72a41c](https://github.com/artx-team/tlsproxy-i18n/commit/a72a41cbec8f0907f3373c676b651f44f53aa0b4))
+
 # [1.72.0](https://github.com/artx-team/tlsproxy-i18n/compare/v1.71.0...v1.72.0) (2024-09-26)
 
 
