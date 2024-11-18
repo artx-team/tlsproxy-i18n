@@ -621,5 +621,7 @@
   "Confirm TTL deletion": "Подтвердите удаление времени жизни",
   "Remove TTL": "Удалить время жизни",
   "Wildcard for clients without root cert": "Универсальное автоисключение для клиентов без корневого сертификата",
-  "Wildcard for clients without root cert hint": "Создание автоисключения для байпаса любого соединения на клиенте с отсутствующим корневым сертификатом TLSproxy"
+  "Wildcard for clients without root cert hint": "Создание автоисключения для байпаса любого соединения на клиенте с отсутствующим корневым сертификатом TLSproxy",
+  "Iface to dump traffic from": "Интерфейс, с которого сбрасывать трафик",
+  "Both": "Оба"
 }

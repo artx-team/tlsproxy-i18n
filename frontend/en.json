@@ -621,5 +621,7 @@
   "Confirm TTL deletion": "Confirm TTL deletion",
   "Remove TTL": "Remove TTL",
   "Wildcard for clients without root cert": "Wildcard for clients without root cert",
-  "Wildcard for clients without root cert hint": "Create auto-exclusion with wildcard to bypass everything on the client without TLSproxy root cert"
+  "Wildcard for clients without root cert hint": "Create auto-exclusion with wildcard to bypass everything on the client without TLSproxy root cert",
+  "Iface to dump traffic from": "Iface to dump traffic from",
+  "Both": "Both"
 }
