@@ -504,6 +504,8 @@
   "ReadSyncKey": "Fetching sync key",
   "WriteSyncKey": "Writing sync key",
   "DeleteSyncKey": "Deleting sync key",
+  "ReadSettings": "Fetching settings",
   "MAC must be different from destination MAC": "MAC must be different from destination MAC",
-  "MAC must be unicast": "MAC must be unicast"
+  "MAC must be unicast": "MAC must be unicast",
+  "Server MAC": "Server MAC"
 }
