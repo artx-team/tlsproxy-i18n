@@ -1,0 +1,10 @@
+{
+  "MUST_BE_inlineServiceGroupIds_OR_inlineServiceIds": "There must be one of inlineServiceGroupIds or inlineServiceIds in request",
+  "NORTHERN_AND_SOUTHERN_ADDRESSES_MUST_BE_IN_DIFFERENT_SUBNETS": "Northern and southern TLSproxy addresses must be in different subnets",
+  "NORTHERN_AND_SOUTHERN_DEVICE_ADDRESSES_MUST_BE_IN_DIFFERENT_SUBNETS": "Northern and southern device addresses must be in different subnets",
+  "NORTHERN_AND_SOUTHERN_IFACES_MUST_DIFFER": "Northern and southern ifaces must differ",
+  "INVALID_SERVICE_CHAIN_CONTENTS": "Invalid service chain contents",
+  "ALL_SERVICE_CHAIN_CONTENTS_MUST_BE_OF_SAME_TYPE": "All service chain contents must me of the same type",
+  "SERVICE_CHAIN_NOT_FOUND": "Service chain not found",
+  "VLANS_MUST_BE_UNIQUE": "VLANs must be unique"
+}

@@ -1,0 +1,10 @@
+{
+  "MUST_BE_inlineServiceGroupIds_OR_inlineServiceIds": "В запросе должно быть одно из полей inlineServiceGroupIds или inlineServiceIds",
+  "NORTHERN_AND_SOUTHERN_ADDRESSES_MUST_BE_IN_DIFFERENT_SUBNETS": "Северный и южный адреса TLSproxy должны быть в разных подсетях",
+  "NORTHERN_AND_SOUTHERN_DEVICE_ADDRESSES_MUST_BE_IN_DIFFERENT_SUBNETS": "Северный и южный адреса устройства должны быть в разных подсетях",
+  "NORTHERN_AND_SOUTHERN_IFACES_MUST_DIFFER": "Северный и южный сетевые интерфейсы должны быть разными",
+  "INVALID_SERVICE_CHAIN_CONTENTS": "Неверные звенья сервисной цепочки",
+  "ALL_SERVICE_CHAIN_CONTENTS_MUST_BE_OF_SAME_TYPE": "Все звенья сервисной цепочки должны быть однотипными",
+  "SERVICE_CHAIN_NOT_FOUND": "Сервисная цепочка не найдена",
+  "VLANS_MUST_BE_UNIQUE": "Каждый VLAN должен быть уникальным"
+}
