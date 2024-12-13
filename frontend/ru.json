@@ -726,5 +726,7 @@
   "Inline services or groups": "Инлайн-сервисы или группы",
   "Add inline service or group": "Добавить инлайн-сервис или группу",
   "Confirm service chain link removal": "Подтвердите удаление звена",
-  "Remove service chain link": "Удалить звено"
+  "Remove service chain link": "Удалить звено",
+  "Add...": "Добавить...",
+  "No service chain links": "Нет звеньев"
 }

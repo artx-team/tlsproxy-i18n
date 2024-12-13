@@ -726,5 +726,7 @@
   "Inline services or groups": "Inline services or groups",
   "Add inline service or group": "Add inline service or group",
   "Confirm service chain link removal": "Confirm service chain link removal",
-  "Remove service chain link": "Remove service chain link"
+  "Remove service chain link": "Remove service chain link",
+  "Add...": "Add...",
+  "No service chain links": "No service chain links"
 }
