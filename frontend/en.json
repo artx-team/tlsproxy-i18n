@@ -728,5 +728,8 @@
   "Confirm service chain link removal": "Confirm service chain link removal",
   "Remove service chain link": "Remove service chain link",
   "Add...": "Add...",
-  "No service chain links": "No service chain links"
+  "No service chain links": "No service chain links",
+  "Logger CPU affinity": "Logger CPU affinity",
+  "Safe restart bulk size": "Number of simultaneously restarted TLSproxy processes",
+  "Restart dialog intro": "ArtX TLSproxy is processing {count} {count, plural, one{session} other{sessions}}.\nThese sessions will be processed until timeout.\nNew sessions will be launched in new processes"
 }
