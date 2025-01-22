@@ -731,5 +731,11 @@
   "No service chain links": "No service chain links",
   "Logger CPU affinity": "Logger CPU affinity",
   "Safe restart bulk size": "Number of simultaneously restarted TLSproxy processes",
-  "Restart dialog intro": "ArtX TLSproxy is processing {count} {count, plural, one{session} other{sessions}}.\nThese sessions will be processed until timeout.\nNew sessions will be launched in new processes"
+  "Restart dialog intro": "ArtX TLSproxy is processing {count} {count, plural, one{session} other{sessions}}.\nThese sessions will be processed until timeout.\nNew sessions will be launched in new processes",
+  "Safe restarting":  "Restarting",
+  "Data type": "Data type",
+  "Value": "Value",
+  "Confirm value deletion": "Confirm value deletion",
+  "Delete value": "Delete value"
+
 }

@@ -731,5 +731,10 @@
   "No service chain links": "Нет звеньев",
   "Logger CPU affinity": "Привязка процесса логирования к ядру CPU",
   "Safe restart bulk size": "Количество одновременно перезапускаемых процессов TLSproxy",
-  "Restart dialog intro": "ArtX TLSproxy сейчас обрабатывает {count} {count, plural, one{сессию} few{сессии} other{сессий}}.\nПри остановке ArtX TLSproxy эти сессии будут сохранены на время удержания.\nНовые сессии будут запущены в новых процессах"
+  "Restart dialog intro": "ArtX TLSproxy сейчас обрабатывает {count} {count, plural, one{сессию} few{сессии} other{сессий}}.\nПри остановке ArtX TLSproxy эти сессии будут сохранены на время удержания.\nНовые сессии будут запущены в новых процессах",
+  "Safe restarting":  "Выполняется перезапуск",
+  "Data type": "Тип",
+  "Value": "Значение",
+  "Confirm value deletion": "Подтвердите удаление значения",
+  "Delete value": "Удалить значение"
 }

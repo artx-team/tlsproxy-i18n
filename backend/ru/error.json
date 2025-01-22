@@ -1,5 +1,6 @@
 {
   "INVALID_LICENSE": "Недействительная лицензия",
   "NO_PROXY_USE_THIS_GROUP": "Исключения используют эту группу",
-  "THIS_GROUP_DATA_EXISTS": "Это значение уже есть в другой группе"
+  "THIS_GROUP_DATA_EXISTS": "Это значение уже есть в другой группе",
+  "AT_LEAST_ONE_FIELD_EXPECTED": "Ожидается хотя бы одно значение"
 }

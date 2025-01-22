@@ -1,5 +1,6 @@
 {
   "INVALID_LICENSE": "Invalid license",
   "NO_PROXY_USE_THIS_GROUP": "Some exclusions use this group",
-  "THIS_GROUP_DATA_EXISTS": "This value already exists in another group"
+  "THIS_GROUP_DATA_EXISTS": "This value already exists in another group",
+  "AT_LEAST_ONE_FIELD_EXPECTED": "At least one field expected"
 }
