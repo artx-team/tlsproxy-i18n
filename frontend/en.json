@@ -200,7 +200,7 @@
   "Restart TLSproxy process on error": "Restart TLSproxy process on error",
   "Timeout": "Timeout",
   "Enabled": "Enabled",
-  "Auto exclude": "Auto exclude",
+  "Autoexclusion": "Autoexclusion",
   "Auto exclude timeout": "Auto exclude timeout",
   "Retries": "Retries",
   "Auto exclude retries": "Auto exclude retries",
