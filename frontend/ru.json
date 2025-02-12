@@ -736,5 +736,14 @@
   "Data type": "Тип",
   "Value": "Значение",
   "Confirm value deletion": "Подтвердите удаление значения",
-  "Delete value": "Удалить значение"
+  "Delete value": "Удалить значение",
+  "IP watcher": "Отладчик IP",
+  "Add IP watcher": "Добавить отладчик IP",
+  "Native watcher": "Собственный отладчик",
+  "Shared IP watcher": "Общий отладчик IP",
+  "Shared IP watcher hint": "Отладчик будет работать во всех экземплярах сервисов",
+  "Confirm IP watcher deletion": "Подтвердите удаление отладчика IP",
+  "Delete IP watcher": "Удалть отладчик IP",
+  "IP watcher saved": "Отладчик IP сохранен",
+  "No IP watchers": "Нет отладчиков IP"
 }

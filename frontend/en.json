@@ -736,6 +736,13 @@
   "Data type": "Data type",
   "Value": "Value",
   "Confirm value deletion": "Confirm value deletion",
-  "Delete value": "Delete value"
-
+  "Delete value": "Delete value",
+  "Add IP watcher": "Add IP watcher",
+  "Native watcher": "Native IP watcher",
+  "Shared IP watcher": "Shared IP watcher",
+  "Shared IP watcher hint": "Shared IP watchers are applied in all instances of TLSproxy",
+  "Confirm IP watcher deletion": "Confirm IP watcher deletion",
+  "Delete IP watcher": "Delete IP watcher",
+  "IP watcher saved": "IP watcher saved",
+  "No IP watchers": "No IP watchers"
 }
