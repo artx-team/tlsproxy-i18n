@@ -744,5 +744,7 @@
   "Confirm IP watcher deletion": "Confirm IP watcher deletion",
   "Delete IP watcher": "Delete IP watcher",
   "IP watcher saved": "IP watcher saved",
-  "No IP watchers": "No IP watchers"
+  "No IP watchers": "No IP watchers",
+  "Confirm deletion of selected IP watchers": "Confirm deletion of selected IP watchers",
+  "IP watchers deleted": "IP watchers deleted"
 }

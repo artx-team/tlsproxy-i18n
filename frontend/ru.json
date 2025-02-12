@@ -745,5 +745,7 @@
   "Confirm IP watcher deletion": "Подтвердите удаление отладчика IP",
   "Delete IP watcher": "Удалть отладчик IP",
   "IP watcher saved": "Отладчик IP сохранен",
-  "No IP watchers": "Нет отладчиков IP"
+  "No IP watchers": "Нет отладчиков IP",
+  "Confirm deletion of selected IP watchers": "Подтвердите удаление выбранных отладчиков IP",
+  "IP watchers deleted": "Отладчики IP удалены"
 }
