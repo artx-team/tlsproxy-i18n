@@ -748,5 +748,6 @@
   "No IP watchers": "Нет отладчиков IP",
   "Confirm deletion of selected IP watchers": "Подтвердите удаление выбранных отладчиков IP",
   "IP watchers deleted": "Отладчики IP удалены",
-  "Remote OVS server": "Удаленный сервер OVS"
+  "Remote ovs-vsctl": "Удаленный ovs-vsctl",
+  "Remote ovs-ofctl": "Удаленный ovs-ofctl"
 }

@@ -747,5 +747,6 @@
   "No IP watchers": "No IP watchers",
   "Confirm deletion of selected IP watchers": "Confirm deletion of selected IP watchers",
   "IP watchers deleted": "IP watchers deleted",
-  "Remote OVS server": "Remote OVS server"
+  "Remote ovs-vsctl": "Remote ovs-vsctl",
+  "Remote ovs-ofctl": "Remote ovs-ofctl"
 }
