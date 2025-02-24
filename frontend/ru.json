@@ -747,5 +747,6 @@
   "IP watcher saved": "Отладчик IP сохранен",
   "No IP watchers": "Нет отладчиков IP",
   "Confirm deletion of selected IP watchers": "Подтвердите удаление выбранных отладчиков IP",
-  "IP watchers deleted": "Отладчики IP удалены"
+  "IP watchers deleted": "Отладчики IP удалены",
+  "Remote OVS server": "Удаленный сервер OVS"
 }
