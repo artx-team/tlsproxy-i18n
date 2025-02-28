@@ -137,7 +137,7 @@
   "Settings": "Settings",
   "Management": "Management",
   "System management": "System management",
-  "Start proxying on boot": "Start proxying on boot",
+  "Start proxying on boot": "Start TLSproxy processes on boot",
   "Turn on proxying": "Turn on proxying",
   "Turn off proxying": "Turn off proxying",
   "Restart": "Restart",

@@ -137,7 +137,7 @@
   "Settings": "Настройки",
   "Management": "Управление",
   "System management": "Управление системой",
-  "Start proxying on boot": "Включать проксирование трафика при старте сервера",
+  "Start proxying on boot": "Включать процессы TLSproxy при старте сервера",
   "Turn on proxying": "Включить проксирование",
   "Turn off proxying": "Включить режим bypass",
   "Restart": "Перезапустить",
