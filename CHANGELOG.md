@@ -1,3 +1,10 @@
+## [1.100.1](https://github.com/artx-team/tlsproxy-i18n/compare/v1.100.0...v1.100.1) (2025-02-28)
+
+
+### Bug Fixes
+
+* rename Start proxying on boot ([b9a298d](https://github.com/artx-team/tlsproxy-i18n/commit/b9a298d9ab6ac987f3007bf4fc2d745ff9a9382a))
+
 # [1.100.0](https://github.com/artx-team/tlsproxy-i18n/compare/v1.99.0...v1.100.0) (2025-02-28)
 
 
