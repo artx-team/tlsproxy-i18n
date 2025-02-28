@@ -748,5 +748,22 @@
   "Confirm deletion of selected IP watchers": "Confirm deletion of selected IP watchers",
   "IP watchers deleted": "IP watchers deleted",
   "Remote ovs-vsctl": "Remote ovs-vsctl",
-  "Remote ovs-ofctl": "Remote ovs-ofctl"
+  "Remote ovs-ofctl": "Remote ovs-ofctl",
+  "Native exclusion group": "Native exclusion group",
+  "Shared exclusion group": "Shared exclusion group",
+  "Confirm deletion of exclusion group": "Confirm deletion of exclusion group",
+  "Delete exclusion group": "Delete exclusion group",
+  "Exclusion group": "Exclusion group",
+  "Shared exclusion group hint": "Available in all instances of TLSproxy",
+  "Contents": "Contents",
+  "Add value": "Add value",
+  "Confirm deletion of selected exclusion groups": "Confirm deletion of selected exclusion groups",
+  "Exclusion groups deleted": "Exclusion groups deleted",
+  "Native exclusion": "Native exclusion",
+  "Shared exclusion": "Shared exclusion",
+  "Active exclusion": "Active exclusion",
+  "Shared exclusion hint": "Available in all instances of TLSproxy",
+  "Native non-excludable": "Native non-excludable",
+  "Shared non-excludable": "Shared non-excludable",
+  "Active non-excludable": "Active non-excludable"
 }

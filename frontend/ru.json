@@ -749,5 +749,22 @@
   "Confirm deletion of selected IP watchers": "Подтвердите удаление выбранных отладчиков IP",
   "IP watchers deleted": "Отладчики IP удалены",
   "Remote ovs-vsctl": "Удаленный ovs-vsctl",
-  "Remote ovs-ofctl": "Удаленный ovs-ofctl"
+  "Remote ovs-ofctl": "Удаленный ovs-ofctl",
+  "Native exclusion group": "Собственная группа",
+  "Shared exclusion group": "Общая группа",
+  "Confirm deletion of exclusion group": "Подтвердите удаление группы",
+  "Delete exclusion group": "Удалить группу",
+  "Exclusion group": "Группа",
+  "Shared exclusion group hint": "Группа доступна во всех экземплярах TLSproxy",
+  "Contents": "Содержимое",
+  "Add value": "Добавить значение",
+  "Confirm deletion of selected exclusion groups": "Подтвердите удаление выбранных групп",
+  "Exclusion groups deleted": "Группы удалены",
+  "Native exclusion": "Собственное исключение",
+  "Shared exclusion": "Общее исключение",
+  "Active exclusion": "Активно",
+  "Shared exclusion hint": "Исключение доступно во всех экземплярах TLSproxy",
+  "Native non-excludable": "Собственный ресурс",
+  "Shared non-excludable": "Общий ресурс",
+  "Active non-excludable": "Активно"
 }
