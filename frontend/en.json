@@ -765,5 +765,12 @@
   "Shared exclusion hint": "Available in all instances of TLSproxy",
   "Native non-excludable": "Native non-excludable",
   "Shared non-excludable": "Shared non-excludable",
-  "Active non-excludable": "Active non-excludable"
+  "Active non-excludable": "Active non-excludable",
+  "No exclusion groups": "No exclusion groups",
+  "IP, CIDR, MAC, domain wildcard": "IP, CIDR, MAC, or domain wildcard",
+  "Allowed IP, CIDR, MAC, domain wildcard": "Allowed IP, CIDR, MAC, domain wildcard",
+  "Exclusion group saved": "Exclusion group saved",
+  "Success": "Success",
+  "Shared non excludable": "Shared non excludable"
+
 }
