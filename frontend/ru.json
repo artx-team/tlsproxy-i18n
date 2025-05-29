@@ -772,5 +772,19 @@
   "Allowed IP, CIDR, MAC, domain wildcard": "Допускается IP, CIDR, MAC, или доменное имя с возможностью шаблона подстановки",
   "Exclusion group saved": "Группа исключений сохранена",
   "Success": "Автоисключение перемещено",
-  "Shared non excludable": "Общий ресурс"
+  "Shared non excludable": "Общий ресурс",
+  "Chains": "Цепочки",
+  "and {more} more": "и еще {more}",
+  "TCP source port": "Исходный порт TCP",
+  "TCP destination port": "Порт назначения TCP",
+  "CIDR": "CIDR",
+  "UDP source port": "Исходный порт UDP",
+  "UDP destination port": "Порт назначения UDP",
+  "IP and device IP must be in same subnets": "IP TLSproxy и IP устройства должны быть в одной подсети",
+  "IP and device IP IPs must differ": "IP TLSproxy и IP устройства должны отличаться",
+  "Northern and southern IPs must be in different subnets": "Северный и южный IP TLSproxy должны быть в разных подсетях",
+  "Northern and southern device IPs must be in different subnets": "Северный и южный IP устройства должны быть в разных подсетях",
+  "Load balancing": "Балансировка нагрузки",
+  "Fast failover": "Быстрое переключение"
+
 }

@@ -771,6 +771,19 @@
   "Allowed IP, CIDR, MAC, domain wildcard": "Allowed IP, CIDR, MAC, domain wildcard",
   "Exclusion group saved": "Exclusion group saved",
   "Success": "Success",
-  "Shared non excludable": "Shared non excludable"
+  "Shared non excludable": "Shared non excludable",
+  "Chains": "Chains",
+  "and {more} more": "and {more} more",
+  "TCP source port": "TCP source port",
+  "TCP destination port": "TCP destination port",
+  "CIDR": "CIDR",
+  "UDP source port": "UDP source port",
+  "UDP destination port": "UDP destination port",
+  "IP and device IP must be in same subnets": "IP and device IP must be in same subnets",
+  "IP and device IP IPs must differ": "IP and device IP IPs must differ",
+  "Northern and southern IPs must be in different subnets": "Northern and southern IPs must be in different subnets",
+  "Northern and southern device IPs must be in different subnets": "Northern and southern device IPs must be in different subnets",
+  "Load balancing": "Load balancing",
+  "Fast failover": "Fast failover"
 
 }

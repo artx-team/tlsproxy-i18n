@@ -6,5 +6,20 @@
   "INVALID_SERVICE_CHAIN_CONTENTS": "Invalid service chain contents",
   "ALL_SERVICE_CHAIN_CONTENTS_MUST_BE_OF_SAME_TYPE": "All service chain contents must me of the same type",
   "SERVICE_CHAIN_NOT_FOUND": "Service chain not found",
-  "VLANS_MUST_BE_UNIQUE": "VLANs must be unique"
+  "VLANS_MUST_BE_UNIQUE": "VLANs must be unique",
+  "VLANS_MUST_DIFFER": "VLANs must dirref",
+  "L2_VLANS_MUST_BE_UNIQUE": "L2 VLANs must be unique",
+  "ADDING_NON_UNIQUE_SERVICE_TO_CHAIN": "Adding non unique service to chain",
+  "ADD_SERVICE_TO_GROUP_WHEN_BOTH_ARE_IN_THE_SAME_CHAIN": "Adding service to group when both are in the same chain",
+  "INVALID_INLINE_SERVICES": "Invalid inline services",
+  "SERVICES_OVERFLOW": "Each group can contain up to 16 services",
+  "LINKS_OVERFLOW": "Each chain can contain up to 8 links",
+  "INVALID_LINK": "Invalid link",
+  "NO_AVAILABLE_INLINE_SERVICE_GROUP_INDEX": "No available inline service group index",
+  "NO_AVAILABLE_INLINE_SERVICE_INDEX": "No available inline service index",
+  "ADDRESSES_MUST_BE_UNIQUE": "Addresses must be unique",
+  "TITLE_MUST_BE_UNIQUE": "Title must be unique",
+  "NORTHERN_ADDRESSES_MUST_BE_IN_THE_SAME_SUBNET": "Northern addresses must be in the same subnet",
+  "NORTHERN_ADDRESSES_MUST_DIFFER": "Northern addresses must differ",
+  "SOUTHERN_ADDRESSES_MUST_DIFFER": "Southern addresses must differ"
 }
