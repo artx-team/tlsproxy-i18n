@@ -775,16 +775,22 @@
   "Shared non excludable": "Общий ресурс",
   "Chains": "Цепочки",
   "and {more} more": "и еще {more}",
-  "TCP source port": "Исходный порт TCP",
-  "TCP destination port": "Порт назначения TCP",
+  "TCP original port": "Оригинальный порт TCP",
+  "TCP substitute port": "Подменяющий порт TCP",
   "CIDR": "CIDR",
-  "UDP source port": "Исходный порт UDP",
-  "UDP destination port": "Порт назначения UDP",
+  "UDP original port": "Оригинальный порт UDP",
+  "UDP substitute port": "Подменяющий порт UDP",
   "IP and device IP must be in same subnets": "IP TLSproxy и IP устройства должны быть в одной подсети",
   "IP and device IP IPs must differ": "IP TLSproxy и IP устройства должны отличаться",
   "Northern and southern IPs must be in different subnets": "Северный и южный IP TLSproxy должны быть в разных подсетях",
   "Northern and southern device IPs must be in different subnets": "Северный и южный IP устройства должны быть в разных подсетях",
   "Load balancing": "Балансировка нагрузки",
-  "Fast failover": "Быстрое переключение"
-
+  "Fast failover": "Быстрое переключение",
+  "Confirm deletion of selected inline services": "Подтвердите удаление выбранных инлайн-сервисов",
+  "Weight": "Вес",
+  "Flap count": "Количество изменений состояний порта",
+  "Not forwarding": "Порт непроходим",
+  "BFD status": "Статус BFD",
+  "Port is UP": "Вкл",
+  "Port is DOWN": "Выкл"
 }

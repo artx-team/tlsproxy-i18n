@@ -774,16 +774,22 @@
   "Shared non excludable": "Shared non excludable",
   "Chains": "Chains",
   "and {more} more": "and {more} more",
-  "TCP source port": "TCP source port",
-  "TCP destination port": "TCP destination port",
+  "TCP original port": "TCP original port",
+  "TCP substitute port": "TCP substitute port",
   "CIDR": "CIDR",
-  "UDP source port": "UDP source port",
-  "UDP destination port": "UDP destination port",
+  "UDP original port": "UDP original port",
+  "UDP substitute port": "UDP substitute port",
   "IP and device IP must be in same subnets": "IP and device IP must be in same subnets",
   "IP and device IP IPs must differ": "IP and device IP IPs must differ",
   "Northern and southern IPs must be in different subnets": "Northern and southern IPs must be in different subnets",
   "Northern and southern device IPs must be in different subnets": "Northern and southern device IPs must be in different subnets",
   "Load balancing": "Load balancing",
-  "Fast failover": "Fast failover"
-
+  "Fast failover": "Fast failover",
+  "Confirm deletion of selected inline services": "Confirm deletion of selected inline services",
+  "Weight": "Weight",
+  "Flap count": "Port flap count",
+  "Not forwarding": "Not forwarding",
+  "BFD status": "BFD status",
+  "Port is UP": "Up",
+  "Port is DOWN": "Down"
 }
