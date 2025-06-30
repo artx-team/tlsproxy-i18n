@@ -651,7 +651,7 @@
   "Delete iface pair": "Удалить коммутационную пару",
   "Confirm iface pair deletion": "Подтвердите удаление коммутационной пары",
   "Span interface": "Интерфейс сброса трафика",
-  "Span interface hint": "Span interface",
+  "Span interface hint": "Интерфейс, на который поступает расшифрованная копия трафика",
   "Encoding": "Кодирование",
   "hex": "hex",
   "utf-8": "utf-8",
