@@ -792,5 +792,7 @@
   "Not forwarding": "Порт непроходим",
   "BFD status": "Статус BFD",
   "Port is UP": "Вкл",
-  "Port is DOWN": "Выкл"
+  "Port is DOWN": "Выкл",
+  "Allow from": "Доступ из",
+  "Login": "Вход"
 }

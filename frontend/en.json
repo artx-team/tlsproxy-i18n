@@ -791,5 +791,7 @@
   "Not forwarding": "Not forwarding",
   "BFD status": "BFD status",
   "Port is UP": "Up",
-  "Port is DOWN": "Down"
+  "Port is DOWN": "Down",
+  "Allow from": "Allow from",
+  "Login": "Sign in"
 }
