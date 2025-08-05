@@ -508,5 +508,7 @@
   "ReadSettings": "Получение настроек",
   "MAC must be different from destination MAC": "Адрес должен отличаться от MAC назначения",
   "MAC must be unicast": "MAC должен быть unicast",
-  "Server MAC": "MAC сервера"
+  "Server MAC": "MAC сервера",
+  "Domain with wildcard": "Доменное имя с возможностью шаблона подстановки (foo.org, *.foo.org, bar*.foo.org)",
+  "Invalid domain wildcard": "Неверный домен или шаблон подстановки"
 }

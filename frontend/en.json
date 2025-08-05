@@ -508,5 +508,7 @@
   "ReadSettings": "Fetching settings",
   "MAC must be different from destination MAC": "MAC must be different from destination MAC",
   "MAC must be unicast": "MAC must be unicast",
-  "Server MAC": "Server MAC"
+  "Server MAC": "Server MAC",
+  "Domain with wildcard": "Domain with wildcard (foo.org, *.foo.org, bar*.foo.org)",
+  "Invalid domain wildcard": "Invalid domain wildcard"
 }
