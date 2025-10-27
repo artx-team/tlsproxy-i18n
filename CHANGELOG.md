@@ -1,3 +1,10 @@
+## [1.50.5](https://github.com/artx-team/tlsproxy-i18n/compare/v1.50.4...v1.50.5) (2025-10-27)
+
+
+### Bug Fixes
+
+* for whitelist ([e510f9f](https://github.com/artx-team/tlsproxy-i18n/commit/e510f9fa90aebad59f8e85667d62febf4c0d80c7))
+
 ## [1.50.4](https://github.com/artx-team/tlsproxy-i18n/compare/v1.50.3...v1.50.4) (2025-10-21)
 
 
