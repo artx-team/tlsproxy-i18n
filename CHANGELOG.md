@@ -1,3 +1,10 @@
+## [1.50.6](https://github.com/artx-team/tlsproxy-i18n/compare/v1.50.5...v1.50.6) (2025-11-25)
+
+
+### Bug Fixes
+
+* for auto exclusions ([039acac](https://github.com/artx-team/tlsproxy-i18n/commit/039acacdbb9084ce17e8c1fd308715b402716a54))
+
 ## [1.50.5](https://github.com/artx-team/tlsproxy-i18n/compare/v1.50.4...v1.50.5) (2025-10-27)
 
 
