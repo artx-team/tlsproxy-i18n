@@ -516,5 +516,19 @@
   "MAC must be unicast": "MAC must be unicast",
   "Server MAC": "Server MAC",
   "Domain with wildcard": "Domain with wildcard (foo.org, *.foo.org, bar*.foo.org)",
-  "Invalid domain wildcard": "Invalid domain wildcard"
+  "Invalid domain wildcard": "Invalid domain wildcard",
+
+  "Auto-exclusion TTL": "Auto-exclusion TTL",
+  "TTL": "TTL",
+  "AE-infinite": "Infinite",
+  "AE-certificate-based": "Certificate based",
+  "AE-static": "Static",
+  "TTL progress": "TTL progress",
+  "Add TTL": "Add TTL",
+  "TTL must be unique": "TTL must be unique",
+  "Confirm TTL deletion": "Confirm TTL deletion",
+  "Remove TTL": "Remove TTL",
+  "Wildcard for clients without root cert": "Wildcard for clients without root cert",
+  "Wildcard for clients without root cert hint": "Create auto-exclusion with wildcard to bypass everything on the client without TLSproxy root cert",
+  "At least one value is required": "At least one value is required in {type} filter"
 }

@@ -516,5 +516,19 @@
   "MAC must be unicast": "MAC должен быть unicast",
   "Server MAC": "MAC сервера",
   "Domain with wildcard": "Доменное имя с возможностью шаблона подстановки (foo.org, *.foo.org, bar*.foo.org)",
-  "Invalid domain wildcard": "Неверный домен или шаблон подстановки"
+  "Invalid domain wildcard": "Неверный домен или шаблон подстановки",
+
+  "Auto-exclusion TTL": "Время жизни автоисключений",
+  "TTL": "Время жизни",
+  "AE-infinite": "Неограниченное",
+  "AE-certificate-based": "По дате окончания сертификата",
+  "AE-static": "Фиксированное",
+  "TTL progress": "Прогресс",
+  "Add TTL": "Добавить",
+  "TTL must be unique": "Время жизни не должно повторяться",
+  "Confirm TTL deletion": "Подтвердите удаление времени жизни",
+  "Remove TTL": "Удалить время жизни",
+  "Wildcard for clients without root cert": "Универсальное автоисключение для клиентов без корневого сертификата",
+  "Wildcard for clients without root cert hint": "Создание автоисключения для байпаса любого соединения на клиенте с отсутствующим корневым сертификатом TLSproxy",
+  "At least one value is required": "Заполните хотя бы одно значение в фильтре «{type}»"
 }
