@@ -1,3 +1,10 @@
+# [1.106.0](https://github.com/artx-team/tlsproxy-i18n/compare/v1.105.0...v1.106.0) (2026-02-20)
+
+
+### Features
+
+* for ICAP ([5efc3a9](https://github.com/artx-team/tlsproxy-i18n/commit/5efc3a9b5f1e40cb3a2e1e1c493564dd2ab4668b))
+
 # [1.105.0](https://github.com/artx-team/tlsproxy-i18n/compare/v1.104.0...v1.105.0) (2025-07-24)
 
 
