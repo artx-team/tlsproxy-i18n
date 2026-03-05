@@ -545,6 +545,8 @@
   "Logging settings updated": "Настройки логирования сохранены",
   "Must restart service to apply new settings": "Требуется перезапуск сервиса для применения настроек",
   "Proxy logging level": "Уровень логирования процессов TLSproxy",
+  "Proxy logging Auto": "Авто",
+  "Proxy logging Auto hint": "Автоматический выбор уровня логирования",
   "Proxy logging None": "Отсутствует",
   "Proxy logging None hint": "Не логировать ничего",
   "Proxy logging Minimal": "Минимальный",

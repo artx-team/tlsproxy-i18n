@@ -545,6 +545,8 @@
   "Logging settings updated": "Logging settings updated",
   "Must restart service to apply new settings": "Must restart service to apply new settings",
   "Proxy logging level": "TLSproxy process Logging level",
+  "Proxy logging Auto": "Auto",
+  "Proxy logging Auto hint": "Automatically select logging level",
   "Proxy logging None": "None",
   "Proxy logging None hint": "Do not log anything",
   "Proxy logging Minimal": "Minimal",
