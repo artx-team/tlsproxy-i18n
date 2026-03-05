@@ -1,3 +1,10 @@
+# [1.107.0](https://github.com/artx-team/tlsproxy-i18n/compare/v1.106.0...v1.107.0) (2026-03-05)
+
+
+### Features
+
+* add translations for Proxy logging Auto level ([954b981](https://github.com/artx-team/tlsproxy-i18n/commit/954b981007df3b2b902a6034c140617a25fccd7a))
+
 # [1.106.0](https://github.com/artx-team/tlsproxy-i18n/compare/v1.105.0...v1.106.0) (2026-02-20)
 
 
