@@ -1,3 +1,10 @@
+# [1.108.0](https://github.com/artx-team/tlsproxy-i18n/compare/v1.107.0...v1.108.0) (2026-03-13)
+
+
+### Features
+
+* for SFC loop ([e851fab](https://github.com/artx-team/tlsproxy-i18n/commit/e851fab1c0d2f34fcb11811bcf5615bac7b91744))
+
 # [1.107.0](https://github.com/artx-team/tlsproxy-i18n/compare/v1.106.0...v1.107.0) (2026-03-05)
 
 
