@@ -1,3 +1,10 @@
+## [1.108.1](https://github.com/artx-team/tlsproxy-i18n/compare/v1.108.0...v1.108.1) (2026-03-13)
+
+
+### Bug Fixes
+
+* lang ([a5b9276](https://github.com/artx-team/tlsproxy-i18n/commit/a5b9276708d9c5fd65ba1a236cbb4d0eedc3e473))
+
 # [1.108.0](https://github.com/artx-team/tlsproxy-i18n/compare/v1.107.0...v1.108.0) (2026-03-13)
 
 
