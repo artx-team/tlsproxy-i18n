@@ -856,5 +856,5 @@
   "Auth": "Auth",
   "Invalid UNIX socket": "Invalid UNIX socket",
   "Invalid UNIX socket permissions": "Invalid UNIX socket permissions",
-  "E.g. 0666": "Например, 0666"
+  "E.g. 0666": "E.g. 0666"
 }
