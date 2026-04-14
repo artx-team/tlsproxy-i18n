@@ -1,3 +1,10 @@
+# [1.109.0](https://github.com/artx-team/tlsproxy-i18n/compare/v1.108.1...v1.109.0) (2026-04-14)
+
+
+### Features
+
+* for TLS profile ([722f1f9](https://github.com/artx-team/tlsproxy-i18n/commit/722f1f97abedb537a39f36aedf8c48ec34b4e8c9))
+
 ## [1.108.1](https://github.com/artx-team/tlsproxy-i18n/compare/v1.108.0...v1.108.1) (2026-03-13)
 
 
