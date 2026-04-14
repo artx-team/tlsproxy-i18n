@@ -1,0 +1,5 @@
+{
+  "ALREADY_EXISTS": "TLS profile exists",
+  "ID_POOL_FULL": "ID pool is full",
+  "PROFILE_NOT_FOUND": "TLS profile not found"
+}
