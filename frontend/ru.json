@@ -886,5 +886,6 @@
   "Delete connection profile": "Удалить профиль соединения",
   "Confirm deletion of selected connection profiles": "Подтвердите удаление выбранных профилей соединений",
   "Connection profiles deleted": "Профили соединений удалены",
-  "Override": "Переопределить"
+  "Override": "Переопределить",
+  "Reset to defaults": "Сбросить к исходным"
 }

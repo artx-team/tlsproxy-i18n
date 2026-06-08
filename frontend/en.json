@@ -885,5 +885,6 @@
   "Delete connection profile": "Delete connection profile",
   "Confirm deletion of selected connection profiles": "Confirm deletion of selected connection profiles",
   "Connection profiles deleted": "Connection profiles deleted",
-  "Override": "Override"
+  "Override": "Override",
+  "Reset to defaults": "Reset to defaults"
 }
