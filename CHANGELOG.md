@@ -1,3 +1,10 @@
+## [1.109.1](https://github.com/artx-team/tlsproxy-i18n/compare/v1.109.0...v1.109.1) (2026-06-08)
+
+
+### Bug Fixes
+
+* rename TLS profile to Connection profile ([21fced7](https://github.com/artx-team/tlsproxy-i18n/commit/21fced750d5627fbcb6be854b217e35029adfcc0))
+
 # [1.109.0](https://github.com/artx-team/tlsproxy-i18n/compare/v1.108.1...v1.109.0) (2026-04-14)
 
 
