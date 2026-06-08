@@ -1,3 +1,10 @@
+# [1.110.0](https://github.com/artx-team/tlsproxy-i18n/compare/v1.109.1...v1.110.0) (2026-06-08)
+
+
+### Features
+
+* to defaults ([ed9b868](https://github.com/artx-team/tlsproxy-i18n/commit/ed9b8684caf023a201b580276066c80ae4d594ff))
+
 ## [1.109.1](https://github.com/artx-team/tlsproxy-i18n/compare/v1.109.0...v1.109.1) (2026-06-08)
 
 
