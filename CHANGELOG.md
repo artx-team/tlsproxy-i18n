@@ -1,3 +1,10 @@
+## [1.100.2](https://github.com/artx-team/tlsproxy-i18n/compare/v1.100.1...v1.100.2) (2026-08-27)
+
+
+### Bug Fixes
+
+* for domain certs ([6070273](https://github.com/artx-team/tlsproxy-i18n/commit/60702732ef25d94ccdce9422f28538add12af8ab))
+
 ## [1.100.1](https://github.com/artx-team/tlsproxy-i18n/compare/v1.100.0...v1.100.1) (2025-02-28)
 
 
