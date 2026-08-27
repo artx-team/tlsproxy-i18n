@@ -2,5 +2,9 @@
   "Both cert and key are required": "Both cert and key are required",
   "Bad X509 certificate": "Bad X509 certificate",
   "Bad key": "Bad key",
-  "Certificate is not consistent with the given private key": "Certificate is not consistent with the given private key"
+  "Certificate is not consistent with the given private key": "Certificate is not consistent with the given private key",
+  "Domain certificate already exists": "Domain certificate already exists",
+  "Domain certificate not found": "Domain certificate not found",
+  "Requested domain certificate cannot be modified": "Requested domain certificate cannot be modified",
+  "No proxy task": "No proxy task"
 }

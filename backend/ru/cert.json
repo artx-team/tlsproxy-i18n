@@ -2,5 +2,9 @@
   "Both cert and key are required": "Обязательные файлы cert и key",
   "Bad X509 certificate": "Сертификат не в формате X509",
   "Bad key": "Неверный формат закрытого ключа",
-  "Certificate is not consistent with the given private key": "Закрытый ключ не подходит к сертификату"
+  "Certificate is not consistent with the given private key": "Закрытый ключ не подходит к сертификату",
+  "Domain certificate already exists": "Доменный сертификат уже существует",
+  "Domain certificate not found": "Доменный сертификат не найден",
+  "Requested domain certificate cannot be modified": "Запрошенный доменный сертификат нельзя изменить",
+  "No proxy task": "Процесс проксирования не найден"
 }
