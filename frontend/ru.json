@@ -167,9 +167,9 @@
   "Confirm domain certificate deletion": "Подтвердите удаление доменного сертификата",
   "Domain name": "Доменное имя",
   "Regular expression": "Регулярное выражение",
-  "Remove domain certificate": "Удалить доменный сертификат",
+  "Remove domain certificate": "Удалить сертификат",
   "Invalid regular expression": "Неверное регулярное выражение",
-  "Add domain certificate": "Добавить доменный сертификат",
+  "Add domain certificate": "Добавить сертификат",
   "No domain certificates": "Нет доменных сертификатов",
   "Drop file here": "Перетащите файл сюда",
   "Delete file": "Удалить файл",
@@ -786,5 +786,6 @@
   "DomainCertOrigin-2": "Запрошенный",
   "DomainCertReqPolicy-close": "Закрыть",
   "DomainCertReqPolicy-bypass": "Байпас",
-  "DomainCertReqPolicy-intercept": "Перехват"
+  "DomainCertReqPolicy-intercept": "Перехват",
+  "Domain certs": "Доменные сертификаты"
 }

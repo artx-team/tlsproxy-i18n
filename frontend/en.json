@@ -785,5 +785,6 @@
   "DomainCertOrigin-2": "Requested",
   "DomainCertReqPolicy-close": "Close",
   "DomainCertReqPolicy-bypass": "Bypass",
-  "DomainCertReqPolicy-intercept": "Intercept"
+  "DomainCertReqPolicy-intercept": "Intercept",
+  "Domain certs": "Domain certs"
 }
