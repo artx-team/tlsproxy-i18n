@@ -1,3 +1,10 @@
+## [1.100.3](https://github.com/artx-team/tlsproxy-i18n/compare/v1.100.2...v1.100.3) (2026-08-27)
+
+
+### Bug Fixes
+
+* trans ([2e164f9](https://github.com/artx-team/tlsproxy-i18n/commit/2e164f9f7b13571fb9193d7d9276f6e4cd6b8799))
+
 ## [1.100.2](https://github.com/artx-team/tlsproxy-i18n/compare/v1.100.1...v1.100.2) (2026-08-27)
 
 
