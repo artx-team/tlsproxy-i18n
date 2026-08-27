@@ -787,5 +787,8 @@
   "DomainCertReqPolicy-close": "Закрыть",
   "DomainCertReqPolicy-bypass": "Байпас",
   "DomainCertReqPolicy-intercept": "Перехват",
-  "Domain certs": "Доменные сертификаты"
+  "Domain certs": "Доменные сертификаты",
+  "Import domain certificates": "Перенести из настроек",
+  "Confirm domain certificate import": "Подтвердите перенос доменных сертификатов из файла настроек",
+  "Domain certificate import result": "Импортировано: {imported}, пропущено: {skipped}, ошибок: {errors}"
 }

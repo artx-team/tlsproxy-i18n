@@ -786,5 +786,8 @@
   "DomainCertReqPolicy-close": "Close",
   "DomainCertReqPolicy-bypass": "Bypass",
   "DomainCertReqPolicy-intercept": "Intercept",
-  "Domain certs": "Domain certs"
+  "Domain certs": "Domain certs",
+  "Import domain certificates": "Import",
+  "Confirm domain certificate import": "Confirm domain certificate import",
+  "Domain certificate import result": "Imported: {imported}, skipped: {skipped}, errors: {errors}"
 }
