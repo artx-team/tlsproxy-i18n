@@ -790,5 +790,15 @@
   "Domain certs": "Доменные сертификаты",
   "Import domain certificates": "Перенести из настроек",
   "Confirm domain certificate import": "Подтвердите перенос доменных сертификатов из файла настроек",
-  "Domain certificate import result": "Импортировано: {imported}, пропущено: {skipped}, ошибок: {errors}"
+  "Domain certificate import result": "Импортировано: {imported}, пропущено: {skipped}, ошибок: {errors}",
+  "Add adapter": "Добавить адаптер",
+  "Add domain certificate adapter": "Добавить адаптер доменного сертификата",
+  "Adapter class": "Класс адаптера",
+  "Class": "Класс",
+  "Confirm domain certificate adapter deletion": "Подтвердите удаление адаптера доменного сертификата",
+  "Description": "Описание",
+  "Domain certificate adapters deleted": "Адаптеры доменных сертификатов удалены",
+  "Domain certificate adapters updated": "Адаптеры доменных сертификатов обновлены",
+  "No domain certificate adapters": "Нет адаптеров доменных сертификатов",
+  "Remove domain certificate adapter": "Удалить адаптер доменного сертификата"
 }

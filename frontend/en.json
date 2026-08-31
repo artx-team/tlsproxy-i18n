@@ -789,5 +789,15 @@
   "Domain certs": "Domain certs",
   "Import domain certificates": "Import",
   "Confirm domain certificate import": "Confirm domain certificate import",
-  "Domain certificate import result": "Imported: {imported}, skipped: {skipped}, errors: {errors}"
+  "Domain certificate import result": "Imported: {imported}, skipped: {skipped}, errors: {errors}",
+  "Add adapter": "Add adapter",
+  "Add domain certificate adapter": "Add domain certificate adapter",
+  "Adapter class": "Adapter class",
+  "Class": "Class",
+  "Confirm domain certificate adapter deletion": "Confirm domain certificate adapter deletion",
+  "Description": "Description",
+  "Domain certificate adapters deleted": "Domain certificate adapters deleted",
+  "Domain certificate adapters updated": "Domain certificate adapters updated",
+  "No domain certificate adapters": "No domain certificate adapters",
+  "Remove domain certificate adapter": "Remove domain certificate adapter"
 }
