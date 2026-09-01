@@ -1,3 +1,10 @@
+## [1.100.6](https://github.com/artx-team/tlsproxy-i18n/compare/v1.100.5...v1.100.6) (2026-09-01)
+
+
+### Bug Fixes
+
+* adapters ([eef181c](https://github.com/artx-team/tlsproxy-i18n/commit/eef181c9dd0fc7cd463c3f3ed7ffb1c620c58540))
+
 ## [1.100.5](https://github.com/artx-team/tlsproxy-i18n/compare/v1.100.4...v1.100.5) (2026-08-31)
 
 
