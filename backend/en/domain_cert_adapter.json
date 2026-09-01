@@ -4,5 +4,6 @@
   "INVALID_OPTIONS": "Invalid domain certificate adapter options",
   "API_URL": "API URL",
   "HASHICORP_VAULT_API_URL_DESCRIPTION": "URL up to v1, ex: https://example.org/path/to/vault/v1",
-  "TOKEN": "Token"
+  "TOKEN": "Token",
+  "ROLE": "Role"
 }
