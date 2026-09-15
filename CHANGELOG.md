@@ -1,3 +1,10 @@
+## [1.100.7](https://github.com/artx-team/tlsproxy-i18n/compare/v1.100.6...v1.100.7) (2026-09-15)
+
+
+### Bug Fixes
+
+* dbctl ([f26255c](https://github.com/artx-team/tlsproxy-i18n/commit/f26255cc1d21c362b0f9ef9439a497875f7a1e72))
+
 ## [1.100.6](https://github.com/artx-team/tlsproxy-i18n/compare/v1.100.5...v1.100.6) (2026-09-01)
 
 
