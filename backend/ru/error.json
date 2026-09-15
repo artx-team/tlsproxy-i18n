@@ -2,5 +2,9 @@
   "INVALID_LICENSE": "Недействительная лицензия",
   "NO_PROXY_USE_THIS_GROUP": "Исключения используют эту группу",
   "THIS_GROUP_DATA_EXISTS": "Это значение уже есть в другой группе",
-  "AT_LEAST_ONE_FIELD_EXPECTED": "Ожидается хотя бы одно значение"
+  "AT_LEAST_ONE_FIELD_EXPECTED": "Ожидается хотя бы одно значение",
+  "DBCTL_E2BIG": "Невозможно удалить более 10000 записей в одном запросе",
+  "DBCTL_EBUSY": "Dbctl занят",
+  "DBCTL_ETIMEDOUT": "Таймаут выполнения в Dbctl",
+  "DBCTL_OTHER": "Неизвестная ошибка Dbctl"
 }
