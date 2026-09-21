@@ -802,5 +802,8 @@
   "No domain certificate adapters": "Нет адаптеров доменных сертификатов",
   "Remove domain certificate adapter": "Удалить адаптер доменного сертификата",
   "Domain cert adapters": "Адаптеры доменных сертификатов",
-  "Cannot delete more than 10000 records at once": "Невозможно удалить более 10000 записей в одном запросе"
+  "Cannot delete more than 10000 records at once": "Невозможно удалить более 10000 записей в одном запросе",
+  "Test adapter": "Тест адаптера",
+  "Test": "Тест",
+  "Cert adapter form is invalid": "Заполните все поля адаптера"
 }

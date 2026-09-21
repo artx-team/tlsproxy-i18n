@@ -801,5 +801,8 @@
   "No domain certificate adapters": "No domain certificate adapters",
   "Remove domain certificate adapter": "Remove domain certificate adapter",
   "Domain cert adapters": "Domain cert adapters",
-  "Cannot delete more than 10000 records at once": "Cannot delete more than 10000 records at once"
+  "Cannot delete more than 10000 records at once": "Cannot delete more than 10000 records at once",
+  "Test adapter": "Test adapter",
+  "Test": "Test",
+  "Cert adapter form is invalid": "Cert adapter form is invalid"
 }

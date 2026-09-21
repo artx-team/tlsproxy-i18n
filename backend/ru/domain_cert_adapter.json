@@ -5,5 +5,6 @@
   "API_URL": "URL API",
   "HASHICORP_VAULT_API_URL_DESCRIPTION": "URL до v1, например: https://example.org/path/to/vault/v1",
   "TOKEN": "Токен",
-  "ROLE": "Роль"
+  "ROLE": "Роль",
+  "UNKNOWN": "Неизвестная ошибка"
 }
