@@ -1,3 +1,10 @@
+## [1.100.9](https://github.com/artx-team/tlsproxy-i18n/compare/v1.100.8...v1.100.9) (2026-09-21)
+
+
+### Bug Fixes
+
+* uptime ([48bba0b](https://github.com/artx-team/tlsproxy-i18n/commit/48bba0b00ca4c816be623bfbe3da3d36987413f2))
+
 ## [1.100.8](https://github.com/artx-team/tlsproxy-i18n/compare/v1.100.7...v1.100.8) (2026-09-21)
 
 
