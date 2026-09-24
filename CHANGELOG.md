@@ -1,3 +1,10 @@
+## [1.100.10](https://github.com/artx-team/tlsproxy-i18n/compare/v1.100.9...v1.100.10) (2026-09-24)
+
+
+### Bug Fixes
+
+* mgimo finisht ([3cccb91](https://github.com/artx-team/tlsproxy-i18n/commit/3cccb91f0ab6cf9fbf5f9595efbcbe9cff80399f))
+
 ## [1.100.9](https://github.com/artx-team/tlsproxy-i18n/compare/v1.100.8...v1.100.9) (2026-09-21)
 
 
