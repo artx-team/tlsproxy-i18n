@@ -1,3 +1,10 @@
+## [1.100.12](https://github.com/artx-team/tlsproxy-i18n/compare/v1.100.11...v1.100.12) (2026-09-25)
+
+
+### Bug Fixes
+
+* domain cert policies ([c3b24c0](https://github.com/artx-team/tlsproxy-i18n/commit/c3b24c0b3aa2c1fc3f68c4b14fbd5299cbe207da))
+
 ## [1.100.11](https://github.com/artx-team/tlsproxy-i18n/compare/v1.100.10...v1.100.11) (2026-09-25)
 
 
