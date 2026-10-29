@@ -2,5 +2,12 @@
   "Both cert and key are required": "Обязательные файлы cert и key",
   "Bad X509 certificate": "Сертификат не в формате X509",
   "Bad key": "Неверный формат закрытого ключа",
-  "Certificate is not consistent with the given private key": "Закрытый ключ не подходит к сертификату"
+  "Certificate is not consistent with the given private key": "Закрытый ключ не подходит к сертификату",
+  "Cert and key array length mismatch": "Количество сертификатов и закрытых ключей не совпадает",
+  "Domain certificate already exists": "Доменный сертификат уже существует",
+  "Domain certificate not found": "Доменный сертификат не найден",
+  "Requested domain certificate cannot be modified": "Запрошенный доменный сертификат нельзя изменить",
+  "Domain name is not covered by SAN/CN": "Доменное имя отсутствует в SAN и CN сертификата",
+  "Passphrase required for encrypted key": "Для зашифрованного закрытого ключа требуется пароль",
+  "Private key is required when changing password": "При смене пароля необходимо загрузить закрытый ключ"
 }

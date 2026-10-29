@@ -2,5 +2,12 @@
   "Both cert and key are required": "Both cert and key are required",
   "Bad X509 certificate": "Bad X509 certificate",
   "Bad key": "Bad key",
-  "Certificate is not consistent with the given private key": "Certificate is not consistent with the given private key"
+  "Certificate is not consistent with the given private key": "Certificate is not consistent with the given private key",
+  "Cert and key array length mismatch": "Number of certificates and private keys does not match",
+  "Domain certificate already exists": "Domain certificate already exists",
+  "Domain certificate not found": "Domain certificate not found",
+  "Requested domain certificate cannot be modified": "Requested domain certificate cannot be modified",
+  "Domain name is not covered by SAN/CN": "Domain name is not covered by SAN/CN",
+  "Passphrase required for encrypted key": "Passphrase required for encrypted key",
+  "Private key is required when changing password": "Private key is required when changing password"
 }

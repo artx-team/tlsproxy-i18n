@@ -1,5 +1,7 @@
 {
   "ALREADY_EXISTS": "Connection profile exists",
   "ID_POOL_FULL": "ID pool is full",
-  "PROFILE_NOT_FOUND": "Connection profile not found"
+  "PROFILE_NOT_FOUND": "Connection profile not found",
+  "INVALID_PROTO_VERSION_RANGE": "Min protocol version cannot be greater than max protocol version",
+  "MUST_DEFINE_ALPN": "ALPN list is required when ALPN mode is Override"
 }

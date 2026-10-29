@@ -12,14 +12,16 @@
   "ADD_SERVICE_TO_GROUP_WHEN_BOTH_ARE_IN_THE_SAME_CHAIN": "Группа и добавляемый сервис участвуют в одной сервисной цепочке",
   "INVALID_INLINE_SERVICES": "Добавление сервисов, отличающихся по версии ip и типа транспорта",
   "SERVICES_OVERFLOW": "В одной группе может быть до 16 сервисов",
-  "INVALID_SERVICE_CHAIN_CONTENTS": "Добавление сервисов или групп, отличающихся по версии ip и типа транспорта",
+  "INVALID_SERVICE_CHAIN_CONTENTS": "Сервисы и группы в цепочке должны совпадать по версии IP и типу транспорта",
   "LINKS_OVERFLOW": "В одной цепочке может быть до 8 звеньев",
   "INVALID_LINK": "Ошибочные данные звена цепочки",
   "NO_AVAILABLE_INLINE_SERVICE_GROUP_INDEX": "Нет доступного индекса группы сервисов",
   "NO_AVAILABLE_INLINE_SERVICE_INDEX": "Нет доступного индекса сервиса",
   "ADDRESSES_MUST_BE_UNIQUE": "Адреса должны быть уникальными",
   "TITLE_MUST_BE_UNIQUE": "Название должно быть уникальным",
-  "NORTHERN_ADDRESSES_MUST_BE_IN_THE_SAME_SUBNET": "Северный и южный сетевые интерфейсы должны быть в одной подсети",
+  "NORTHERN_ADDRESSES_MUST_BE_IN_THE_SAME_SUBNET": "Северный адрес TLSproxy и северный адрес устройства должны быть в одной подсети",
+  "SOUTHERN_ADDRESSES_MUST_BE_IN_THE_SAME_SUBNET": "Южный адрес TLSproxy и южный адрес устройства должны быть в одной подсети",
   "NORTHERN_ADDRESSES_MUST_DIFFER": "Северные адреса должны отличаться",
-  "SOUTHERN_ADDRESSES_MUST_DIFFER": "Южные адреса должны отличаться"
+  "SOUTHERN_ADDRESSES_MUST_DIFFER": "Южные адреса должны отличаться",
+  "CONNECTION_PROFILE_ALREADY_ASSIGNED": "Профиль соединения уже назначен другой сервисной цепочке"
 }

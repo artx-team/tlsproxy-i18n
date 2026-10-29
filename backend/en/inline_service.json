@@ -1,0 +1,4 @@
+{
+  "NOT_FOUND": "Inline service not found",
+  "INVALID_GROUP_SERVICES": "The specified services do not belong to the group"
+}

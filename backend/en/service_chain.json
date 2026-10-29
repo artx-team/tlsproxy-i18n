@@ -3,7 +3,7 @@
   "NORTHERN_AND_SOUTHERN_ADDRESSES_MUST_BE_IN_DIFFERENT_SUBNETS": "Northern and southern TLSproxy addresses must be in different subnets",
   "NORTHERN_AND_SOUTHERN_DEVICE_ADDRESSES_MUST_BE_IN_DIFFERENT_SUBNETS": "Northern and southern device addresses must be in different subnets",
   "NORTHERN_AND_SOUTHERN_IFACES_MUST_DIFFER": "Northern and southern ifaces must differ",
-  "INVALID_SERVICE_CHAIN_CONTENTS": "Invalid service chain contents",
+  "INVALID_SERVICE_CHAIN_CONTENTS": "Services and groups must match the chain's IP version and transport",
   "ALL_SERVICE_CHAIN_CONTENTS_MUST_BE_OF_SAME_TYPE": "All service chain contents must me of the same type",
   "SERVICE_CHAIN_NOT_FOUND": "Service chain not found",
   "VLANS_MUST_BE_UNIQUE": "VLANs must be unique",
@@ -19,7 +19,9 @@
   "NO_AVAILABLE_INLINE_SERVICE_INDEX": "No available inline service index",
   "ADDRESSES_MUST_BE_UNIQUE": "Addresses must be unique",
   "TITLE_MUST_BE_UNIQUE": "Title must be unique",
-  "NORTHERN_ADDRESSES_MUST_BE_IN_THE_SAME_SUBNET": "Northern addresses must be in the same subnet",
+  "NORTHERN_ADDRESSES_MUST_BE_IN_THE_SAME_SUBNET": "Northern TLSproxy address and northern device address must be in the same subnet",
+  "SOUTHERN_ADDRESSES_MUST_BE_IN_THE_SAME_SUBNET": "Southern TLSproxy address and southern device address must be in the same subnet",
   "NORTHERN_ADDRESSES_MUST_DIFFER": "Northern addresses must differ",
-  "SOUTHERN_ADDRESSES_MUST_DIFFER": "Southern addresses must differ"
+  "SOUTHERN_ADDRESSES_MUST_DIFFER": "Southern addresses must differ",
+  "CONNECTION_PROFILE_ALREADY_ASSIGNED": "Connection profile is already assigned to another service chain"
 }
