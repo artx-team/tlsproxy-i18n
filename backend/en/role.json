@@ -1,0 +1,4 @@
+{
+  "NOT_FOUND": "Role not found",
+  "ROLE_EXISTS": "Role with this name already exists"
+}

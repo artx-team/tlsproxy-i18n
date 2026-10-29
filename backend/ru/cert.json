@@ -6,5 +6,9 @@
   "Domain certificate already exists": "Доменный сертификат уже существует",
   "Domain certificate not found": "Доменный сертификат не найден",
   "Requested domain certificate cannot be modified": "Запрошенный доменный сертификат нельзя изменить",
-  "No proxy task": "Процесс проксирования не найден"
+  "No proxy task": "Процесс проксирования не найден",
+  "Cert and key array length mismatch": "Количество сертификатов и закрытых ключей не совпадает",
+  "Domain name is not covered by SAN/CN": "Доменное имя отсутствует в SAN и CN сертификата",
+  "Passphrase required for encrypted key": "Для зашифрованного закрытого ключа требуется пароль",
+  "Private key is required when changing password": "При смене пароля необходимо загрузить закрытый ключ"
 }

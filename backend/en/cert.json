@@ -6,5 +6,9 @@
   "Domain certificate already exists": "Domain certificate already exists",
   "Domain certificate not found": "Domain certificate not found",
   "Requested domain certificate cannot be modified": "Requested domain certificate cannot be modified",
-  "No proxy task": "No proxy task"
+  "No proxy task": "No proxy task",
+  "Cert and key array length mismatch": "Number of certificates and private keys does not match",
+  "Domain name is not covered by SAN/CN": "Domain name is not covered by SAN/CN",
+  "Passphrase required for encrypted key": "Passphrase required for encrypted key",
+  "Private key is required when changing password": "Private key is required when changing password"
 }
