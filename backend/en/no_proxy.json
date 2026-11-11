@@ -2,5 +2,6 @@
   "SAME_RECORD_EXISTS": "Same record exists",
   "GROUP_NOT_FOUND": "Group not found",
   "NO_PROXY_NOT_FOUND": "Exclusion not found",
-  "DUPLICATE_CONTENT": "Duplicate content"
+  "DUPLICATE_CONTENT": "Duplicate content",
+  "EMPTY_RULE": "Fill in at least one exclusion field"
 }

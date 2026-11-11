@@ -9,5 +9,6 @@
   "Requested domain certificate cannot be modified": "Requested domain certificate cannot be modified",
   "Domain name is not covered by SAN/CN": "Domain name is not covered by SAN/CN",
   "Passphrase required for encrypted key": "Passphrase required for encrypted key",
-  "Private key is required when changing password": "Private key is required when changing password"
+  "Private key is required when changing password": "Private key is required when changing password",
+  "Domain name is already used by another domain certificate": "Domain name is already used by another domain certificate"
 }

@@ -9,5 +9,6 @@
   "Requested domain certificate cannot be modified": "Запрошенный доменный сертификат нельзя изменить",
   "Domain name is not covered by SAN/CN": "Доменное имя отсутствует в SAN и CN сертификата",
   "Passphrase required for encrypted key": "Для зашифрованного закрытого ключа требуется пароль",
-  "Private key is required when changing password": "При смене пароля необходимо загрузить закрытый ключ"
+  "Private key is required when changing password": "При смене пароля необходимо загрузить закрытый ключ",
+  "Domain name is already used by another domain certificate": "Доменное имя уже используется другим доменным сертификатом"
 }
