@@ -1,3 +1,10 @@
+## [1.100.14](https://github.com/artx-team/tlsproxy-i18n/compare/v1.100.13...v1.100.14) (2026-11-11)
+
+
+### Bug Fixes
+
+* update translations for revoked certificates and validation errors ([c14d708](https://github.com/artx-team/tlsproxy-i18n/commit/c14d708d17a54620f04269a1b8315a7b7241c9c4))
+
 ## [1.100.13](https://github.com/artx-team/tlsproxy-i18n/compare/v1.100.12...v1.100.13) (2026-10-29)
 
 
