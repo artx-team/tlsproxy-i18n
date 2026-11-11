@@ -10,5 +10,6 @@
   "Cert and key array length mismatch": "Number of certificates and private keys does not match",
   "Domain name is not covered by SAN/CN": "Domain name is not covered by SAN/CN",
   "Passphrase required for encrypted key": "Passphrase required for encrypted key",
-  "Private key is required when changing password": "Private key is required when changing password"
+  "Private key is required when changing password": "Private key is required when changing password",
+  "Domain name is already used by another domain certificate": "Domain name is already used by another domain certificate"
 }

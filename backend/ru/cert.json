@@ -10,5 +10,6 @@
   "Cert and key array length mismatch": "Количество сертификатов и закрытых ключей не совпадает",
   "Domain name is not covered by SAN/CN": "Доменное имя отсутствует в SAN и CN сертификата",
   "Passphrase required for encrypted key": "Для зашифрованного закрытого ключа требуется пароль",
-  "Private key is required when changing password": "При смене пароля необходимо загрузить закрытый ключ"
+  "Private key is required when changing password": "При смене пароля необходимо загрузить закрытый ключ",
+  "Domain name is already used by another domain certificate": "Доменное имя уже используется другим доменным сертификатом"
 }

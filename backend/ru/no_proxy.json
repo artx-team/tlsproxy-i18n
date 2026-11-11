@@ -2,5 +2,6 @@
   "SAME_RECORD_EXISTS": "Такое исключение существует",
   "GROUP_NOT_FOUND": "Группа не найдена",
   "NO_PROXY_NOT_FOUND": "Исключение не найдено",
-  "DUPLICATE_CONTENT": "Повторящееся значение"
+  "DUPLICATE_CONTENT": "Повторяющееся значение",
+  "EMPTY_RULE": "Заполните хотя бы одно поле исключения"
 }
